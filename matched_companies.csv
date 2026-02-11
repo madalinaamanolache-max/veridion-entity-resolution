@@ -1,0 +1,593 @@
+input_row_key,input_company_name,input_country,input_city,matched_company_name,matched_veridion_id,matched_country,matched_city,matched_website,match_score,name_similarity,match_confidence,notes
+0,24-SEVEN MEDIA NETWORK (PRIVATE) LIMITED,Pakistan,Karachi,New Millennium Network,26e22210-93e5-11eb-b997-8dd98d09cf25,Pakistan,Karachi,https://www.mnet.com.pk/,0.654,0.59,Medium,Moderate name match
+1,2OPERATE A/S,Denmark,Aalborg,2operate,8b99ef83-93e4-11eb-b997-8dd98d09cf25,Denmark,Aalborg Municipality,https://www.2operate.com/,0.9,1.0,High,Strong name match
+10,ACCENTURE SERVICES AS,Norway,Bærum,Accenture Norge,182e8830-1b02-11ec-81d0-432e4ac5b2cc,Norway,Oslo,https://www.accenture.no/,0.6,0.75,Medium,Good fuzzy name match
+100,COMBA TELECOM LIMITED,Hong Kong,Hong Kong Island,Comba Telecom,85816b51-93e4-11eb-a736-0f5b20ecb2f1,Hong Kong,New Territories,https://comba-telecom.com/en/,0.8,1.0,High,Strong name match
+101,Comengineering Sdn. Bhd.,Malaysia,Subang Jaya,COMENGINEERING SDN BHD.,eb823b24-1e9c-11ee-918e-3b99085851a3,Malaysia,Subang Jaya,,1.0,1.0,High,Strong name match
+102,COMMSCOPE SOLUTIONS SINGAPORE PTE. LTD.,Singapore,Singapore,All Property Solutions Singapore,03be7761-93e5-11eb-a746-fdabd18be9c6,Singapore,Singapore,https://apss.com.sg/,0.768,0.78,High,Good fuzzy name match
+103,CommScope Technologies AG,Switzerland,Zurich,Commscope Technologies Ag,ff338e8e-b929-11ed-89f1-bd62b3e1c745,Switzerland,Bachenbülach,,0.8,1.0,High,Strong name match
+104,COMMSCOPE TECHNOLOGIES LLC,United States,,CommScope,0094d3b3-1b06-11ec-8d54-8181ab1eaaa9,United States,Omaha,,0.6,0.75,Medium,Good fuzzy name match
+105,COMVIVA TECHNOLOGIES LIMITED,India,Gurugram,Comviva Technologies,8913e0f5-93e4-11eb-91fb-73d498260b10,India,Gurugram,https://www.comviva.com/,1.0,1.0,High,Strong name match
+106,CONSCIA DANMARK A/S,Denmark,Glostrup,Conscia Danmark A/S.,33c93c45-a7e0-11ef-af89-216a077ca7fb,Denmark,Ringsted,https://laugesen.io/,0.75,1.0,High,Strong name match
+107,CONTROL RISKS GROUP LIMITED,United Kingdom,London,Control Risks Group Holdings Ltd.,be890a78-9d75-11ed-816c-8fdd7f384ea6,United Kingdom,London,https://www.controlrisks.net/,1.0,1.0,High,Strong name match
+108,CORPORATE COMMUNICATIONS AS,Norway,Oslo,Corporate Communications,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,Norway,Oslo,https://corporatecommunications.no/,1.0,1.0,High,Strong name match
+109,"COUPA SOFTWARE, INC.",United States,San Mateo,Coupa,f62860c0-93e4-11eb-8e19-198fb02d6f96,United States,San Mateo,https://www.coupa.com/,1.0,1.0,High,Strong name match
+11,Accutics ApS,Denmark,Odense,Accutics,347c7e63-93e5-11eb-90d2-e3355a7e800b,Denmark,Copenhagen Municipality,https://www.accutics.com/,0.75,1.0,High,Strong name match
+110,"COURSERA, INC.",United States,Mountain View,Coursera,7e044e20-93e4-11eb-8474-3bbe2d07207d,United States,Mountain View,https://www.coursera.org/,1.0,1.0,High,Strong name match
+111,CRAYON A/S,Denmark,Gladsaxe Municipality,Crayon A/S.,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Denmark,Silkeborg,,0.75,1.0,High,Strong name match
+112,CRAYON AS,Norway,Oslo,Crayon Group,16e36fd0-93e5-11eb-8e19-198fb02d6f96,Norway,Oslo,https://www.crayon.com/,1.0,1.0,High,Strong name match
+113,CRAYON PTE. LTD.,Singapore,,Crayon Digital Pte Ltd.,11ca0c36-93e5-11eb-b997-8dd98d09cf25,Singapore,Singapore,https://crayondigital.net/,0.65,0.8333,Medium,Good fuzzy name match
+114,"CROWDSTRIKE SERVICES, INC.",United States,Sunnyvale,CrowdStrike,01be7de3-0c24-11ec-aa7c-a3d935d57c91,United States,Sunnyvale,https://www.mdcoin.net/,0.928,0.88,High,Good fuzzy name match
+115,Searcher ApS,Denmark,Aarhus Municipality,Searcher,c7c58151-43ae-11ef-b5d2-e5c02fb4c089,Denmark,Aarhus,https://searcher.dk/,0.85,1.0,High,Strong name match
+116,"CUSHMAN & WAKEFIELD SERVICES (THAILAND) CO., LTD.",Thailand,,Cushman & Wakefield Services Thailand Co. Ltd.,e8e82741-5871-11ec-b633-39790144a985,Thailand,Ratchathewi,,0.75,1.0,High,Strong name match
+117,DADES Center Ost ApS,Denmark,Kongens Lyngby,Dades,1e999e70-93e5-11eb-91fb-73d498260b10,Denmark,Kongens Lyngby,https://dades.dk/,0.8,0.6667,High,Moderate name match
+118,BONNIER BUSINESS PRESS A/S,Denmark,Copenhagen,Vi I Villa,3d8c97b4-93e5-11eb-a736-0f5b20ecb2f1,Denmark,Copenhagen,https://viivilla.no/,0.642,0.57,Medium,Moderate name match
+119,DAILY JURRAT,Pakistan,Civil Lines,Daily Dunya,01e830c0-93e5-11eb-91fb-73d498260b10,Pakistan,Lahore,http://www.dunya.com.pk/,0.62,0.7,Medium,Good fuzzy name match
+12,ACOME,France,Paris,ACOME Company a Cooperative,fed105d4-93e4-11eb-9937-4fab995bf8ff,France,Paris,https://www.acome.com/en,1.0,1.0,High,Strong name match
+120,Dansk Kredit Rad,Denmark,Greve Strand,Dansk Kredit Råd,070edae0-93e5-11eb-b4a6-27899be4e45d,Denmark,Køge,https://dk-r.dk/,0.782,0.97,High,Strong name match
+121,DANSK SUNDHEDSSIKRING KOMPLEMENTARSELSKAB ApS,Denmark,Herlev,Dansk Sundhedssikring,1f89f1e3-93e5-11eb-b5f6-816dd10ac7b0,Denmark,Herlev,http://ds-sundhed.dk/,0.85,0.8333,High,Good fuzzy name match
+122,DANSKE BANK A/S,Denmark,,Danske Bank,c6eb5470-93e4-11eb-9937-4fab995bf8ff,Denmark,Copenhagen,https://danskebank.com/,0.75,1.0,High,Strong name match
+123,Dantec Nordics ApS,Denmark,Aabenraa Municipality,Dantec Nordics,fdd5fee0-9bc7-11ec-abde-87ab8965fdf7,Denmark,Aabenraa Municipality,https://www.dantec-nordics.dk/,1.0,1.0,High,Strong name match
+124,DEAS A/S,Denmark,Frederiksberg Municipality,DEAS Asset Management,00b85c80-0bf8-11ec-83e9-bfaaab8ed4b6,Denmark,Frederiksberg,https://deas-asset.com/en,0.9,1.0,High,Strong name match
+125,DEKO-STYLE V/ANJA GRONNE,Denmark,Aarhus Municipality,Deko Style,2840eeb8-93e5-11eb-8859-29e7c34dee35,Denmark,Aarhus Municipality,https://dekostyle.dk/,0.77,0.7,High,Good fuzzy name match
+126,DELFI TECHNOLOGIES A/S,Denmark,Køge,Delfi Technologies,8647efa3-93e4-11eb-90d2-e3355a7e800b,Denmark,Køge,https://www.delfi.com/en/,0.95,1.0,High,Strong name match
+127,DELL AS,Norway,Oslo,Dell,beddde1c-93e4-11eb-8859-29e7c34dee35,Norway,Oslo,http://www.dell.no/?opi=79508299&sa=U&ved=0ahUKEwiSkpfC2KmMAxXBTDABHaXIFoIQ61gIFCgQ&usg=AOvVaw0kwchOCGTWXjKnv_NDR-y3,1.0,1.0,High,Strong name match
+128,Dell Corporation (Thailand) Co Ltd,Thailand,Yan Nawa District,Dellstore Thailand,1fe10718-f025-11ee-9eb6-8ba0a080e844,Thailand,Khan Na Yao,https://dellstorethailand.com/?v=cb21c4d7dea9,0.704,0.84,High,Good fuzzy name match
+129,DELL PRODUCTS,Ireland,,Promac Products,0e7148d3-f82f-11ed-ad06-ab02ea1aeed6,Ireland,Ferns,,0.606,0.76,Medium,Good fuzzy name match
+13,"ACOME XINTAI CABLES CO., LTD.",China,Xintai,Acome Xintai Cables Co. Ltd.,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,China,Chaoyang,,0.75,1.0,High,Strong name match
+130,DELOITTE ADVOKATFIRMA AS,Norway,Oslo,Deloitte Norge,b69603af-1aff-11ec-bc98-195cbdc2446a,Norway,Oslo,http://www.deloitte.no/?opi=79508299&sa=U&ved=0ahUKEwiFwZ3V1quMAxValokEHbfFE-sQ61gIFCgQ&usg=AOvVaw1mrNGUeUDJuiYxHwgqhTP6,0.838,0.73,High,Good fuzzy name match
+131,DELOITTE AS,Norway,Oslo,Deloitte Norge,b69603af-1aff-11ec-bc98-195cbdc2446a,Norway,Oslo,http://www.deloitte.no/?opi=79508299&sa=U&ved=0ahUKEwiFwZ3V1quMAxValokEHbfFE-sQ61gIFCgQ&usg=AOvVaw1mrNGUeUDJuiYxHwgqhTP6,0.85,0.75,High,Good fuzzy name match
+132,Deloitte Consulting (Sea) Sdn. Bhd.,Malaysia,Kuala Lumpur,Deloitte Consulting Malaysia Sdn Bhd.,4d8576a2-14c1-11ee-98f2-2b13cee7793d,Malaysia,Kuala Lumpur,,0.958,0.93,High,Strong name match
+133,DELOITTE STATSAUTORISERET REVISIONSPARTNERSELSKAB,Denmark,,Revisto Statsautoriseret Revisionspartnerselskab,b14fddd0-93e4-11eb-b89f-536884b3e7dd,Denmark,Horsens,https://revisto.dk/,0.696,0.91,Medium,Strong name match
+134,"DELTA EJENDOM, AALBORG A/S",Denmark,Aalborg Municipality,Delta Porte,5603e04e-418e-11ef-9214-e57003ad85d6,Denmark,Nørresundby,https://www.deltaporte.dk/,0.6,0.6667,Medium,Moderate name match
+135,ELTEK AS,Norway,Drammen,Eltek,169a31db-93e5-11eb-919a-b3f9a5ad205c,Norway,Drammen,https://www.eltek.com/,0.95,1.0,High,Strong name match
+136,DELTA ELECTRONICS INT'L (SINGAPORE) PTE. LTD.,Singapore,Singapore,Delta Electronics,70923a3d-93e4-11eb-a33a-a3dfba582839,Singapore,Singapore,https://www.delta-singapore.com/en-SG/index,0.9,1.0,High,Strong name match
+137,DHL EXPRESS (SINGAPORE) PTE. LTD.,Singapore,Singapore,ThaiExpress,2d504056-93e5-11eb-9937-4fab995bf8ff,Singapore,Singapore,https://www.thaiexpress.com.sg/,0.786,0.81,High,Good fuzzy name match
+138,DIAL ZERO (PRIVATE) LIMITED,Pakistan,Orangi,DIAL ZERO,9d28dea3-93e4-11eb-86dd-ffbd1b53140e,Pakistan,Karachi Division,https://dialzero.pk/,0.8,1.0,High,Strong name match
+139,Nets Denmark A/S,Denmark,Ballerup,Nets group,1821bc30-93e5-11eb-a746-fdabd18be9c6,Denmark,Ballerup,https://nets.eu/,1.0,1.0,High,Strong name match
+14,ADAPT A/S,Denmark,Copenhagen,Adapt Agency,e8772100-93e4-11eb-b5f6-816dd10ac7b0,Denmark,Copenhagen,https://adaptagency.com/,1.0,1.0,High,Strong name match
+140,DIGI TELECOMMUNICATIONS SDN BHD,Malaysia,,DiGi Telecommunications,c2b35013-93e4-11eb-b997-8dd98d09cf25,Malaysia,Petaling Jaya,https://www.celcomdigi.com/,0.75,1.0,High,Strong name match
+141,Digi Telecommunications Sdn. Bhd.,Malaysia,Petaling Jaya,DiGi Telecommunications,c2b35013-93e4-11eb-b997-8dd98d09cf25,Malaysia,Petaling Jaya,https://www.celcomdigi.com/,0.9,1.0,High,Strong name match
+142,DK HOSTMASTER A/S,Denmark,Aalborg Municipality,The Hostmaster,0f30fe9d-1114-11ec-baf7-7d3c206bcfd6,Greece,Athens,https://thehostmaster.gr/,0.522,0.87,Medium,Good fuzzy name match
+143,DNA OYJ,Finland,,DNA,880cd138-93e4-11eb-9937-4fab995bf8ff,Finland,Helsinki,https://www.dna.fi/,0.75,1.0,High,Strong name match
+144,DNB Bank Karl Johan,Norway,Oslo,DNB BANK,713a067e-a5ad-11ef-99b4-e30dab6798c3,Norway,Oslo,https://dnbconnect.org/,0.85,0.75,High,Good fuzzy name match
+145,"DET NORSKE VERITAS, BUSINESS ASSURANCE, DANMARK A/S",Denmark,Gentofte Municipality,Danish Quality Assurance Group,2fb184b2-121c-11ec-acb9-417079e98e96,Denmark,Copenhagen,https://dkgqa.com/,0.53,0.55,Medium,Moderate name match
+146,Dtac Trinet Co Ltd,Thailand,Bangkok,Dtac-trinet,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,Thailand,Saraphi District,,0.75,1.0,High,Strong name match
+147,DUBEX A/S,Denmark,Gladsaxe Municipality,Dubex,18777d50-93e5-11eb-be3a-7f925cb94351,Denmark,Gladsaxe Municipality,http://www.dubex.dk/,1.0,1.0,High,Strong name match
+148,DXC TECHNOLOGY NORGE AS,Norway,Bergen,DXC Technology Norge AS,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,Norway,Oslo,,0.75,1.0,High,Strong name match
+149,DXC Technology Sverige AB,Sweden,Solna,DXC Technology Sverige AB.,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,Sweden,Gothenburg,,0.75,1.0,High,Strong name match
+15,ADECCO A/S,Denmark,Kongens Lyngby,Adecco Hillerød,3d1f6d90-1579-11ee-8c08-a59aa7cafccb,Denmark,Hillerød,,0.65,0.75,Medium,Good fuzzy name match
+150,Dynamic-Telecommunication Sdn. Bhd.,Malaysia,Ulu Tiram,Dynamic-Telecommunication Sdn Bhd.,6fef3cc3-499f-11ee-955d-cffc14e1ac7f,Malaysia,Johor Bahru,https://www.dynagroup.my/,0.8,1.0,High,Strong name match
+151,EASTCOMPEACE (SINGAPORE) PTE. LTD.,Singapore,Singapore,Eastcompeace Singapore Pte Ltd.,6cc2cc31-a630-11ed-9a26-bbb8582c677b,Singapore,Singapore,,0.95,1.0,High,Strong name match
+152,EASTCOMPEACE SMART CARD (BANGLADESH) LIMITED,Bangladesh,,Eastcompeace Smart Card Bangladesh Limited.,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Bangladesh,Dhaka,,0.75,1.0,High,Strong name match
+153,"Eastcompeace Technology Co.,Ltd",China,Zhuhai,Eastcompeace,d3e5dfe4-123f-11ec-b7b8-257f68cd18d4,China,Zhuhai,https://www.eastcompeace.com/,0.9,1.0,High,Strong name match
+154,Ecapacity A/S,Denmark,Copenhagen,eCapacity,2a2e9a98-1200-11ec-b96f-e38fcfed8310,Denmark,Copenhagen,https://ecapacity.com/,1.0,1.0,High,Strong name match
+155,ECI Media Management AB,Sweden,Stockholm,ECI Media Management,2b50edd1-93e5-11eb-a746-fdabd18be9c6,Sweden,Stockholm,https://ecimediamanagement.com/,1.0,1.0,High,Strong name match
+156,ECI MEDIA MANAGEMENT AB,Sweden,,ECI Media Management,2b50edd1-93e5-11eb-a746-fdabd18be9c6,Sweden,Stockholm,https://ecimediamanagement.com/,0.75,1.0,High,Strong name match
+157,Edotco Group Sdn. Bhd.,Malaysia,Kuala Lumpur,EDOTCO Group,c01a55bf-93e4-11eb-9937-4fab995bf8ff,Malaysia,Shah Alam,,0.75,1.0,High,Strong name match
+158,EDOTCO TOWERS PAKISTAN (PRIVATE) LIMITED,Pakistan,,EDOTCO Towers Inc.,1dfd1c3b-f9b4-11ed-9050-f308aaf46953,Philippines,Makati,,0.5,0.8333,Low,Good fuzzy name match
+159,Egencia Denmark A/S,Denmark,Elsinore,Egencia,386ddce7-93e5-11eb-b4a6-27899be4e45d,Denmark,Odense,https://www.egencia.dk/,0.75,1.0,High,Strong name match
+16,ADECCO PERSONNEL PTE LTD,Singapore,,Adecco Singapore,410a4cc3-93e5-11eb-9937-4fab995bf8ff,Singapore,Singapore,http://www.adecco.com.sg/,0.75,1.0,High,Strong name match
+160,EGENCIA LLC,United States,,Egencia,3198bf61-93e5-11eb-8e19-198fb02d6f96,Spain,Seville,http://www.egencia.com.hk/,0.6,1.0,Medium,Strong name match
+161,EGENCIA NORWAY AS,Norway,Oslo,Egencia,06e4ced6-ff7f-11eb-84ab-359586b9329a,Norway,Gjøvik,http://egencia.no/,0.636,0.81,Medium,Good fuzzy name match
+162,Egencia Sweden AB,Sweden,Stockholm,Egencia,3198bf61-93e5-11eb-8e19-198fb02d6f96,Spain,Seville,http://www.egencia.com.hk/,0.45,0.75,Low,Good fuzzy name match
+163,Egeneration Limited,Bangladesh,Dhaka,eGeneration,9ade0445-93e4-11eb-8ad6-7326edce8d21,Bangladesh,Dhaka,https://egeneration.co/,0.9,1.0,High,Strong name match
+164,ELGIGANTEN GROSSIST A/S,Denmark,Glostrup,Elgiganten,6cc5eff0-93e4-11eb-8ad6-7326edce8d21,Denmark,Copenhagen,https://www.elgiganten.dk/,0.722,0.87,High,Good fuzzy name match
+165,ELTEL NETWORKS CONNECT A/S,Denmark,Herlev,Eltel Networks,f2d78814-93e4-11eb-8859-29e7c34dee35,Denmark,Herlev,https://www.eltelgroup.com/,0.9,0.8333,High,Good fuzzy name match
+166,Energy Cool ApS,Denmark,Fredericia Municipality,Energy Cool,ab422f07-93e4-11eb-86dd-ffbd1b53140e,Denmark,Fredericia Municipality,https://energy-cool.com/,0.95,1.0,High,Strong name match
+167,ENETEK POWER SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,Poland,Dobra,Spółka OLOGROUP Spółka z ograniczoną odpowiedzialnością,0a8c7fb4-1403-11ec-9819-3df44af6372a,Poland,Kielce,https://ologroup.pl/,0.65,0.75,Medium,Good fuzzy name match
+168,ENERGI HOBRO TELE A/S,Denmark,Silkeborg,Norlys,b6dc75a2-93e4-11eb-aa66-9b8d95e2171b,Denmark,Silkeborg,https://norlys.dk/,0.802,0.67,High,Moderate name match
+169,Enreach Campaigns A/S,Denmark,Gladsaxe Municipality,Enreach DK,378ef9cd-dfcd-11ed-9724-3d5242e4c304,Denmark,Copenhagen,https://www.enreach.dk/?opi=79508299&sa=U&ved=0ahUKEwidxsPInt6MAxV0xgIHHTIaBpUQ61gIFCgQ&usg=AOvVaw3Uec7V8XFBfZ-7BWJeYSrX,0.692,0.82,Medium,Good fuzzy name match
+17,ADOBE SYSTEMS SOFTWARE IRELAND LIMITED,Ireland,Dublin,Adobe Systems Software Ireland,099ed3a8-1afb-11ec-a882-057f42292856,Ireland,Dublin 24,,0.8,1.0,High,Strong name match
+170,Ericsson (Malaysia) Sdn. Bhd.,Malaysia,Petaling Jaya,SwedCham,869f6933-e6fe-11ee-a4cc-db6ddf3d40c6,Malaysia,Kuala Lumpur,https://www.swedcham.my/,0.75,1.0,High,Strong name match
+171,Ericsson (Thailand) Limited,Thailand,Chatuchak,Ericsson Thailand Ltd.,d2916f52-250a-11ec-8093-db09f614eb78,Thailand,Chatuchak,,1.0,1.0,High,Strong name match
+172,ERICSSON AB,Sweden,,Ericsson Väst Seniorförening,334cae31-0bcc-11ec-a040-cbff7458f722,Sweden,,https://ericssonvastsen.se/,0.75,1.0,High,Strong name match
+173,ERICSSON AS,Norway,Bærum,Ericsson AS,ff083300-a7b5-11ed-bec3-afeedabcf530,Norway,Oslo,https://epignosis.no/,0.75,1.0,High,Strong name match
+174,ERICSSON DANMARK A/S,Denmark,Copenhagen,Ericsson,36729930-2d35-11ed-98d8-c5babc9e48bf,Denmark,Taastrup,,0.65,0.75,Medium,Good fuzzy name match
+175,ERNST & YOUNG LLP,Singapore,Singapore,ERNST & YOUNG CC,01a05990-08db-11ee-a82b-313aff40d3b6,United Kingdom,London,https://ernstandyoung.play-cricket.com/home,0.528,0.88,Medium,Good fuzzy name match
+176,EY Godkendt Revisionspartnerselskab,Denmark,Frederiksberg Municipality,JH Revision,1cccf4c6-93e5-11eb-8ad6-7326edce8d21,Denmark,Taastrup,https://www.svendaagejensen.dk/,0.776,0.96,High,Strong name match
+177,ERP DENMARK ApS,Denmark,Nyborg,Batteriindsamling ERP Denmark ApS.,33a00afc-f81d-11ed-8ed0-97e170af3960,Denmark,Nyborg,http://erp-recycling.dk/?opi=79508299&sa=U&ved=0ahUKEwjzgJOUh7GMAxWCKlkFHZLZL3QQ61gIEigP&usg=AOvVaw0PPZ0r6uBXnllr0sJE3Krs,0.85,0.8333,High,Good fuzzy name match
+178,Estel Technologies Private Limited,India,Gurugram District,Estel Technologies,e87217f9-93e4-11eb-8ad6-7326edce8d21,India,Gurugram,https://esteltelecom.com/,0.8,1.0,High,Strong name match
+179,EUTELSAT S.A.,France,Paris,Eutelsat Asia,328c2081-25e7-11ec-a051-939956ac8241,France,Paris,,1.0,1.0,High,Strong name match
+18,ADVANCED DIGITAL BROADCAST SA,Switzerland,Bellevue,ADB,47b15560-93e5-11eb-91fb-73d498260b10,Switzerland,Pregny-Chambésy,https://www.adbglobal.com/,0.8,1.0,High,Strong name match
+180,Ework Group AB (Publ),Sweden,Stockholm,Ework Group,8674cc02-93e4-11eb-be5a-4f810ab55f2e,Sweden,Stockholm,https://www.eworkgroup.com/,0.75,0.75,High,Good fuzzy name match
+181,EWORK NORDIC ApS,Denmark,Copenhagen,Nordic Medical Equipment & Services,478d3928-f773-11ec-8aaa-43579fe070c2,Denmark,Copenhagen,https://nordicmedicalequipment.com/,0.735,0.5583,High,Moderate name match
+182,EWORK GROUP NORWAY AS,Norway,Oslo,Universal Music,ef614d16-93e4-11eb-aa66-9b8d95e2171b,Norway,Oslo,https://universalmusic.no/,0.685,0.5583,Medium,Moderate name match
+183,EXFO Ltd.,Finland,Oulu,EXFO Finland Oy.,3034bc10-74ad-11ed-9364-a958028bfff1,Finland,Oulu,,0.8,0.75,High,Good fuzzy name match
+184,EXIDE TECHNOLOGIES AS,Norway,Ullensaker,Exide Technologies avd Bergen,2253d9c0-1ea3-11ee-b65c-eb6aa2a5b79c,Norway,Stavanger,https://sonnak.com/,0.75,1.0,High,Strong name match
+185,EXPRESS PUBLICATIONS (PVT.) LIMITED,Pakistan,,Al Huda Publications,14903104-93e5-11eb-90d2-e3355a7e800b,Pakistan,Islamabad,http://alhudapublications.org/,0.54,0.65,Medium,Moderate name match
+186,Extenda Retail AS Avd Oslo,Norway,Tønsberg,EXTENDA RETAIL,5890bff3-112b-11ec-b06c-d1fadf322ad0,Norway,Tønsberg,https://44749.org/,0.856,0.76,High,Good fuzzy name match
+187,F5 NETWORKS LIMITED,United Kingdom,Chertsey,F5 Networks Inc.,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,United Kingdom,,http://couponannie.co.uk/,0.75,1.0,High,Strong name match
+188,FACEBOOK IRELAND LIMITED,Ireland,Dublin,Facebook 3,bbc22cb4-f88f-11ed-8b62-8d44f5b628fe,Ireland,Dublin 3,,0.82,0.89,High,Good fuzzy name match
+189,Falck Danmark A/S,Denmark,Copenhagen,Falck,e9312230-93e4-11eb-86dd-ffbd1b53140e,Denmark,Copenhagen,https://www.falck.com/,0.85,0.75,High,Good fuzzy name match
+19,Advanced Network Solutions Sdn Bhd,Malaysia,Shah Alam,Advanced Network Solutions Sdn. Bhd.,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,Malaysia,Shah Alam,,0.95,1.0,High,Strong name match
+190,Fastbridge Malaysia Sdn Bhd,Malaysia,Petaling Jaya,Mall of Malaysia,4bd4a421-725b-11ec-a37c-11c248193b5d,Malaysia,Petaling Jaya,https://mallofmalaysia.com.my/,0.832,0.72,High,Good fuzzy name match
+191,Favro Holding AB,Sweden,Uppsala,Favro,ff5c55c1-93e4-11eb-aa66-9b8d95e2171b,Sweden,Uppsala,https://www.favro.com/,1.0,1.0,High,Strong name match
+192,Fiberail Sdn. Bhd.,Malaysia,Kuala Lumpur,Marniq Bersatu,121312f5-0a64-11ec-8417-691c8cf7be2f,Malaysia,Kuala Lumpur,https://marniq.com/,0.808,0.68,High,Moderate name match
+193,Fibrecomm Network (M) Sdn. Bhd.,Malaysia,Kuala Lumpur,FIBRECOMM,aade3d11-93e4-11eb-919a-b3f9a5ad205c,Malaysia,Kuala Lumpur,https://fibrecomm.net.my/,0.95,1.0,High,Strong name match
+194,DANSK HALON TEKNIK ApS,Denmark,Hillerød,Dansk Iso Teknik,149e2513-aac5-11ef-8555-0dd834e09bbc,Denmark,Ballerup,https://isoteknik.dk/,0.716,0.86,High,Good fuzzy name match
+195,FORM DANMARK ApS,Denmark,Odder Municipality,Form Danmark,44240fe3-93e5-11eb-919a-b3f9a5ad205c,Denmark,Odder,http://www.formdanmark.dk/,0.85,1.0,High,Strong name match
+196,SYKES ENTERPRISES NORWAY AS,Norway,Bergen,Sykes Enterprises Inc.,05a1f7e2-1b05-11ec-adb0-cd37d3ec1182,United States,Chesterfield,,0.5,0.8333,Low,Good fuzzy name match
+197,GARTNER ADVISORY (SINGAPORE) PTE LTD,Singapore,Singapore,Gartner Advisory S Pte Ltd.,5b67817a-1b01-11ec-adc9-5d86e79c45f3,Singapore,Singapore,,0.87,0.95,High,Strong name match
+198,GARTNER NORGE AS,Norway,Oslo,Gartner Norge,21d91ebf-1b00-11ec-a8e8-f10d0988514b,Norway,Oslo,,1.0,1.0,High,Strong name match
+199,GBT TRAVEL SERVICES UK LIMITED,United Kingdom,London,GBT CAD Services,55654d24-2501-11ec-afbe-77d05334befc,United Kingdom,St. Ives,,0.6515,0.7525,Medium,Good fuzzy name match
+2,3 STEP IT A/S,Denmark,Tønder Municipality,3 Step IT A/S.,45309031-f8ab-11ed-89fe-613148a94f23,Denmark,Gladsaxe Municipality,http://www.3stepit.dk/?opi=79508299&sa=U&ved=0ahUKEwiKsvSF7tyMAxWo78kDHfZKCtQQ61gIFCgQ&usg=AOvVaw1O2VrP_KM3o5n9XzsuUwLL,0.75,1.0,High,Strong name match
+20,ADVANSIA AS,Norway,Oslo,Advansia,a9f7869f-93e4-11eb-97db-273ba5953680,Norway,Oslo,https://www.advansia.no/,1.0,1.0,High,Strong name match
+200,Genex Infosys Limited,Bangladesh,Dhaka,Genex Infosys,ce7a4c04-93e4-11eb-90d2-e3355a7e800b,Bangladesh,Dhaka,https://genexinfosys.com/,0.9,1.0,High,Strong name match
+201,GEO ENTERTAINMENT TELEVISION (PVT.) LIMITED,Pakistan,,HarPal Geo,fce143ad-93e4-11eb-86dd-ffbd1b53140e,Pakistan,Karachi,https://harpalgeo.tv/,0.65,0.8333,Medium,Good fuzzy name match
+202,GINTEL AS,Norway,Trondheim,Gintel Norway,404994d0-93e5-11eb-8474-3bbe2d07207d,Norway,Trondheim,https://www.gintel.com/,1.0,1.0,High,Strong name match
+203,GLOBALCONNECT A/S,Denmark,Høje-Taastrup Municipality,GlobalConnect,d9a64075-93e4-11eb-9937-4fab995bf8ff,Denmark,Copenhagen,https://globalconnect.dk/,0.8,1.0,High,Strong name match
+204,Glory Fashions Ltd.,Bangladesh,Dhaka,Glory Fashions,fe92eb43-93e4-11eb-9937-4fab995bf8ff,Bangladesh,Dhaka,https://gloryfashions.com/,0.9,1.0,High,Strong name match
+205,Goecker Service A/S,Denmark,Copenhagen,Goecker since 1862,eb6bf704-93e4-11eb-97db-273ba5953680,Denmark,Copenhagen,https://goecker.dk/,0.85,0.75,High,Good fuzzy name match
+206,GOGIFT.COM A/S,Denmark,,GoGift,b8ca3bec-93e4-11eb-9937-4fab995bf8ff,Denmark,Copenhagen,https://www.global.gogift.com/,0.6,0.75,Medium,Good fuzzy name match
+207,Google Asia Pacific Pte. Ltd.,Singapore,Singapore,Google Asia Pacific Pte. Ltd.,1d514729-01ae-11ef-ba8c-a5c322c4d97c,Singapore,,https://duoi625maxim.com/,0.75,1.0,High,Strong name match
+208,Google Cloud EMEA Limited,Ireland,,ISP Cloud Services Inc.,ea1ef585-0db2-11ec-a7f3-33eabf6446aa,United States,Miami,https://escadmin.com/,0.6,1.0,Medium,Strong name match
+209,GOOGLE COMMERCE LIMITED,Ireland,,Google Commerce Limited,be55a775-c4b2-11ec-af9f-718ab7b26330,Ireland,Dublin 4,https://lespotnoir.com/,0.75,1.0,High,Strong name match
+21,AEGER GROUP AS,Norway,Oslo,Aeger Group,2d7be421-93e5-11eb-be5a-4f810ab55f2e,Norway,Oslo,https://www.aeger.no/,0.9,1.0,High,Strong name match
+210,GOOGLE IRELAND LIMITED,Ireland,Dublin 4,Anbieter Google Ireland,c9226d45-aa22-11ed-bb93-cd216f6acc3c,Ireland,Dublin 4,http://diessen-mitte.com/,0.9,0.8333,High,Good fuzzy name match
+211,GRAMEENPHONE LTD,Bangladesh,,Grameenphone Centre,0e257043-dc98-11ef-b8b0-a1dc081da81f,Bangladesh,Dhaka,,0.612,0.77,Medium,Good fuzzy name match
+212,Grassfish Denmark ApS,Denmark,Aarhus Municipality,playscapes Denmark,03ae71d3-93e5-11eb-aa66-9b8d95e2171b,Denmark,Aarhus,https://playscapes.dk/,0.628,0.63,Medium,Moderate name match
+213,Green Packet Berhad,Malaysia,Petaling Jaya,GREEN PACKET,ba0505da-93e4-11eb-97db-273ba5953680,Malaysia,Petaling Jaya,https://www.greenpacket.com/,1.0,1.0,High,Strong name match
+214,GreenMind A/S,Denmark,Gladsaxe Municipality,GreenMind,205a2882-092a-11ee-b84c-9b2922821bc8,Denmark,Rødovre Municipality,,0.8,1.0,High,Strong name match
+215,grey advertising ( bangladesh) ltd.,Bangladesh,,Backpage PR,fd557720-5982-11ec-a195-fb7c9849e658,Bangladesh,Dhaka,https://backpagepr.com/,0.75,1.0,High,Strong name match
+216,GSM ASSOCIATION,United Kingdom,London,GSMA Training,b1eae542-93e4-11eb-aa66-9b8d95e2171b,United Kingdom,London,https://www.gsmatraining.com/,0.9,1.0,High,Strong name match
+217,"HARBIN COSLIGHT NEW ENERGY CO., LTD.",China,Harbin,Harbin Xinju New Energy Co. Ltd.,4214b8bf-1d88-11ef-a07a-c90c75a354c8,China,Harbin,,0.81,0.85,High,Good fuzzy name match
+218,HE SIKRING A/S,Denmark,Furesø Municipality,Sikring 247,88dcd0fb-f184-11ee-a23a-a1ee570f45ce,Denmark,Hillerød,https://sikring247.dk/,0.692,0.82,Medium,Good fuzzy name match
+219,HELP Forsakring filial,Sweden,,HELP Försäkring,8dbea451-93e4-11eb-a33a-a3dfba582839,Sweden,Stockholm,https://helpforsakring.se/,0.612,0.77,Medium,Good fuzzy name match
+22,AFFIRMED NETWORKS INC,United States,Acton,Affirmed Networks,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,United States,Acton,https://www.affirmednetworks.com/,1.0,1.0,High,Strong name match
+220,HELP FORSIKRING AS,Norway,Oslo,HELP Forsikring,a90e10f4-93e4-11eb-be5a-4f810ab55f2e,Norway,Oslo,https://help.no/,1.0,1.0,High,Strong name match
+221,"HELP FORSIKRING,FILIAL AF HELP FORSIKRING AS, NORGE",Denmark,Copenhagen,HELP Forsikring,bb79f296-93e4-11eb-86dd-ffbd1b53140e,Denmark,Copenhagen,https://helpforsikring.dk/,0.7857,0.6429,High,Moderate name match
+222,HERM. RASMUSSEN A/S,Denmark,Silkeborg Municipality,Herm,8de2ce1b-93e4-11eb-a33a-a3dfba582839,Denmark,Silkeborg,http://www.herm.dk/,0.85,1.0,High,Strong name match
+223,HEST AGENTUR AS,Norway,Oslo,HEST Agentur,19b24740-93e5-11eb-aa66-9b8d95e2171b,Norway,Oslo,https://hestagentur.no/,1.0,1.0,High,Strong name match
+224,HETEK A/S,Denmark,Vejle,HETEK,6cf9d142-93e4-11eb-8859-29e7c34dee35,Denmark,Vejle,https://hetek.dk/,1.0,1.0,High,Strong name match
+225,Hewlett-Packard (M) Sdn Bhd,Malaysia,,Hewlett-Packard M Sdn. Bhd.,c4a8edac-a10f-11ed-8865-3b27972b8eff,Malaysia,Bayan Lepas,,0.75,1.0,High,Strong name match
+226,Hewlett-Packard (Thailand) Ltd.,Thailand,Bangkok,Thailand Insurance Symposium 2022,b4aa7732-5f7b-11ed-9ad1-5ba8e7935b78,Thailand,Bangkok,https://tis2022.com/,0.9,1.0,High,Strong name match
+227,HEWLETT-PACKARD ApS,Denmark,Lillerød,Hewlett-Packard ApS.,571d319b-1e68-11ee-8977-f9df9a4bf47f,Denmark,Aarhus,,0.75,1.0,High,Strong name match
+228,HEWLETT-PACKARD NORGE AS,Norway,Bærum,,,,,,0.64,0.4,Unmatched,Name similarity too low (0.40)
+229,"Hewlett Packard Singapore (Sales) Pte., Ltd.",Singapore,Singapore,Hewlett Packard Depot Rd,d3c03269-e0ca-11ee-af37-875b13c328d9,Singapore,Singapore,,0.7158,0.693,High,Moderate name match
+23,Agg Power Technology (Fuzhou) Co Ltd.,China,Fuzhou City,AGG Power,475daed5-0c7d-11ec-b9ed-b7cae580407c,China,Fuzhou City,http://aggpower.cn/,0.75,0.75,High,Good fuzzy name match
+230,HEWLETT-PACKARD SVERIGE AB,Sweden,,Hewlett-Packard Sverige AB.,4676a351-f930-11ed-b4e8-cf8e051b3eab,Sweden,Malmo,,0.75,1.0,High,Strong name match
+231,"HIGH TOUCH, INC.",United States,Los Angeles,High Touch Remodeling,d778d926-93e4-11eb-be5a-4f810ab55f2e,United States,Los Angeles,https://hightouchremodeling.com/,0.9,0.8333,High,Good fuzzy name match
+232,HOLDSPORT.DK ApS,Denmark,Aarhus,Holdsport,acbf3216-93e4-11eb-a746-fdabd18be9c6,Denmark,Aarhus,https://www.holdsport.dk/,0.916,0.86,High,Good fuzzy name match
+233,HOPPECKE BATTERIEN GMBH & CO. KG,Germany,,Hoppecke Batterien bremecketal,421f907b-c406-11ef-abec-3bdf402d3fc2,Germany,Brilon,,0.702,0.92,High,Strong name match
+234,HP INC (THAILAND) COMPANY LIMITED,Thailand,Bang Rak District,HP Inc Thailand Ltd.,f6162cf3-5a2d-11ed-be40-7d734d234848,Thailand,Bang Rak,,0.85,1.0,High,Strong name match
+235,HP INC DANMARK ApS,Denmark,Lillerød,HP Inc Denmark ApS.,e861f812-cf3e-11ed-a9e6-41f52173ea03,Denmark,Lillerød,,0.94,0.9,High,Strong name match
+236,HP NORGE AS,Norway,Bærum,HP Norge,6fb6df80-918f-11ed-9198-5108792e5842,Norway,Bærum,https://hp-norge.no/,1.0,1.0,High,Strong name match
+237,Hp Pps Sales Sdn. Bhd.,Malaysia,Kuala Lumpur,HP PPS Sales Sdn Bhd.,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,Malaysia,Kuala Lumpur,https://hp-aipcvideocontest.com/,1.0,1.0,High,Strong name match
+238,HP PPS SINGAPORE (SALES) PTE. LTD.,Singapore,Bukit Merah,GG Playfest,28cb5283-f474-11ec-9207-43fec1f49158,Singapore,Singapore,https://ggplayfest.com/,0.8,1.0,High,Strong name match
+239,HUAWEI INTERNATIONAL PTE. LTD.,Singapore,,Huawei Enterprise,81727301-2350-11ec-be87-a3acfe0d4893,Singapore,,,0.75,1.0,High,Strong name match
+24,AIA Berhad,Malaysia,Kuala Lumpur,AIA Malaysia,000b3360-93e5-11eb-919a-b3f9a5ad205c,Malaysia,Kuala Lumpur,https://www.aia.com.my/,0.75,0.75,High,Good fuzzy name match
+240,Huawei Technologies (Bangladesh) Limited.,Bangladesh,,Shahidul Islam Sarker,b51941d7-93e4-11eb-a746-fdabd18be9c6,Bangladesh,Dhaka,http://www.shahidulsarker.com/,0.75,1.0,High,Strong name match
+241,HUAWEI TECHNOLOGIES (DENMARK) ApS,Denmark,Copenhagen,Huawei Denmark,47d1fe26-4a46-11ef-a31d-a303c6a91d6a,Denmark,Copenhagen,,0.85,0.8333,High,Good fuzzy name match
+242,Huawei Technologies (Malaysia) Sdn. Bhd.,Malaysia,Kuala Lumpur,Huawei Technologies Malaysia Sdn Bhd TRX,3e229adb-f5be-11ed-9659-9b00f4ea9e93,Malaysia,Kuala Lumpur,,0.87,0.95,High,Strong name match
+243,"HUAWEI TECHNOLOGIES (THAILAND) CO., LTD.",Thailand,Bangkok,Huawei Technologies Thailand Company Limited,8a15fed6-1b00-11ec-9b25-637f12b6c164,Thailand,Huai Khwang,,0.85,1.0,High,Strong name match
+244,HUAWEI TECHNOLOGIES NORWAY AS,Norway,Bærum,Huawei Technologies Norway AS,fea798e2-1afc-11ec-9308-05476ec24aab,Norway,Bærum,,1.0,1.0,High,Strong name match
+245,HUAWEI TECHNOLOGIES PAKISTAN (PRIVATE) LIMITED,Pakistan,Islamabad,HUAWEI Pakistan,ca2f9ba8-8aa4-11ec-9066-739984ffef59,Pakistan,Islamabad,,0.85,0.8333,High,Good fuzzy name match
+246,Huawei Technologies Sweden AB,Sweden,,Future of Wireless,d15378e1-04d0-11ec-a6a3-7d13d87fe979,Sweden,Stockholms Kommun,https://futureofwireless.eu/,0.75,1.0,High,Strong name match
+247,HUBER+SUHNER A/S,Denmark,Furesø Municipality,Huber Suhner A/S.,7d5aecb0-1b05-11ec-88d5-df9161de908b,Denmark,Værløse,,0.85,1.0,High,Strong name match
+248,Huber+Suhner AG,Switzerland,Herisau,HUBER SUHNER Sales Partners,0ac24602-93e5-11eb-8474-3bbe2d07207d,Switzerland,Herisau,http://www.hubersuhner.com/,1.0,1.0,High,Strong name match
+249,HUBER+SUHNER ELECTRONICS PRIVATE LIMITED,India,New Delhi,HUBER SUHNER,e74584c3-3317-11ec-8c1a-73d6fe4b34be,Italy,Ponna,https://husu.ch/,0.5,0.8333,Low,Good fuzzy name match
+25,AIG EUROPE S.A. NUF,Norway,Oslo,AIG Norge,379975dc-93e5-11eb-90d2-e3355a7e800b,Norway,Oslo,https://www.aig.no/,0.9,0.8333,High,Good fuzzy name match
+250,Hum Network Limited,Pakistan,Saddar Town,Hum Network,395074a2-93e5-11eb-a746-fdabd18be9c6,Pakistan,Karachi Division,https://www.humnetwork.tv/,0.8,1.0,High,Strong name match
+251,Human Edge Management AG,Switzerland,Basel,Human Edge,14161f0e-93e5-11eb-97db-273ba5953680,Switzerland,Basel,http://human-edge.com/,1.0,1.0,High,Strong name match
+252,Hydro Energi AS,Norway,Oslo,Hydro Vækerø | Onepark,039c2ca8-c96a-11ef-9aca-e5a484694482,Norway,Oslo,,0.838,0.73,High,Good fuzzy name match
+253,IBM DANMARK A/S,Denmark,,SJEC,0131b200-93e5-11eb-a736-0f5b20ecb2f1,Denmark,Jyllinge,https://sjecdanmark.dk/,0.618,0.78,Medium,Good fuzzy name match
+254,Idemia France SAS,France,,IDEMIA France SAS.,33e93227-8a9a-11ec-8f0a-eb02b2415b08,France,Courbevoie,https://www.bioscrypt.com/,0.75,1.0,High,Strong name match
+255,OBERTHUR TECHNOLOGIES NORWAY AS,Norway,Stavanger,Oberthur Technologies,03831c14-93e5-11eb-a33a-a3dfba582839,France,Paris,https://www.oberthur.com/,0.528,0.88,Medium,Good fuzzy name match
+256,"IKANO BANK, FILIAL AF IKANO BANK AB (PUBL), SVERIGE",Denmark,Glostrup,Ikano Bank,16d6c5a0-93e5-11eb-90d2-e3355a7e800b,Denmark,Glostrup,https://ikanobank.dk/,0.775,0.625,High,Moderate name match
+257,Imi Mobile Vas Limited,Bangladesh,,IMI Mobile VAS Ltd FZE,25bf4898-a69a-11ec-9108-57519746fb39,United Kingdom,London,,0.528,0.88,Medium,Good fuzzy name match
+258,IMIMOBILE EUROPE LIMITED,United Kingdom,London,IMI Mobile VAS Ltd FZE,25bf4898-a69a-11ec-9108-57519746fb39,United Kingdom,London,,1.0,1.0,High,Strong name match
+259,INDEPENDENT MEDIA CORPORATION (PRIVATE) LIMITED.,Pakistan,Karachi,Independent Pak Media,c2a15e50-d5c4-11ee-b607-b56d5b475a9b,Pakistan,Gojra,,0.684,0.89,Medium,Good fuzzy name match
+26,AKTIESELSKABET RODOVRE CENTRUM,Denmark,Rødovre Municipality,Aktieselskabet Rødovre Centrum,eab4a797-e56c-11ed-86c6-9fd2c95fb352,Denmark,Rødovre Municipality,,0.988,0.98,High,Strong name match
+260,INFINERA CORPORATION,United States,San Jose,INFINERA CORP,3eb2bbab-17c0-11f0-af94-ddfd1c46b53d,United States,San Jose,https://www.infinerac.xyz/,1.0,1.0,High,Strong name match
+261,INFOMEDIA A/S,Denmark,Copenhagen,INFOMEDIA,fa89bf14-93e4-11eb-9937-4fab995bf8ff,Denmark,Copenhagen,https://infomedia.dk/,0.95,1.0,High,Strong name match
+262,INFOSYS LIMITED,India,Bengaluru,Infosys Limited,dcc5e190-22df-11ec-817c-6169a8cec47d,India,Bengaluru,,0.9,1.0,High,Strong name match
+263,Ingram Micro Mobility Sweden AB,Sweden,,INGRAM MICRO NORDIC LOGISTICS AB.,23bb110e-49a8-11ef-b831-79711486170a,Sweden,Borås,,0.552,0.67,Medium,Moderate name match
+264,inlumi ApS,Denmark,Ballerup Municipality,inlumi OY.,9fdc17ce-93e4-11eb-8ad6-7326edce8d21,Sweden,Stockholm,https://inlumi.com/,0.6,1.0,Medium,Strong name match
+265,INSIDER SECURITY PTE. LTD.,Singapore,Singapore,InsiderSecurity,b99023f2-93e4-11eb-a33a-a3dfba582839,Singapore,,https://insidersecurity.co/,0.75,1.0,High,Strong name match
+266,INTEGRITY RISK INTERNATIONAL LLC,United States,Reston,Integrity Risk International,99015501-93e4-11eb-b4a6-27899be4e45d,United States,Reston,https://www.integrityriskintl.com/,1.0,1.0,High,Strong name match
+267,Intouch Insight Inc.,Canada,Ottawa,Intouch Insight,886a8187-93e4-11eb-b4a6-27899be4e45d,Canada,Ottawa,https://www.intouchinsight.com/,0.95,1.0,High,Strong name match
+268,Intrum Debt Finance AG,Switzerland,Zoug,FINANCE SKY,04fe7362-01b4-11ef-ade1-91904611b689,Switzerland,Baar,https://www.financesky.ch/,0.59,0.65,Medium,Moderate name match
+269,ADVIS A/S,Denmark,Copenhagen,ADVIS s.r.o.,027dcd78-f778-11ee-a5a9-7131efb71ece,Slovakia,Revúca,,0.6,1.0,Medium,Strong name match
+27,ALLEN OVERY SHEARMAN STERLING LLP,United Kingdom,London,A&O Shearman,19609053-0bbc-11ee-900c-9bee0d280070,United Kingdom,London,https://www.aoshearman.com/en,1.0,1.0,High,Strong name match
+270,IPG MEDIABRANDS (SINGAPORE) PTE. LTD.,Singapore,,IPG Mediabrands APAC,9b3460e0-4e9a-11ef-9005-197c1f23de9c,Singapore,Singapore,,0.6015,0.7525,Medium,Good fuzzy name match
+271,Ipsos Sdn. Bhd.,Malaysia,,Ipsos Sdn Bhd.,dff13de7-1afd-11ec-a31a-a7a88bbb321b,Malaysia,Kuala Lumpur,,0.8,1.0,High,Strong name match
+272,ISS Facility Services A/S,Denmark,Gladsaxe Municipality,ISS Facility Services Ltd.,52dd79a7-64a6-11ee-8ba4-c1d00e9cebfd,Denmark,Gladsaxe Municipality,https://frontend-issworld-demo.vercel.app/en,0.95,1.0,High,Strong name match
+273,ISS FACILITY SERVICES AB,Sweden,,ISS Facility Services AB.,4cf5285b-27d1-11ef-bd6f-218060e3190a,Sweden,Västervik,,0.75,1.0,High,Strong name match
+274,ISS FACILITY SERVICES AS,Norway,Oslo,ISS Facility Services Norge,b6933ece-a507-11ec-aceb-79f5b854cd8b,Norway,Oslo,,0.928,0.88,High,Good fuzzy name match
+275,ISS GLOBAL A/S,Denmark,Gladsaxe Municipality,ISS,c2b80b00-93e4-11eb-a33a-a3dfba582839,Denmark,Søborg,http://www.au.issworld.com/,0.8,1.0,High,Strong name match
+276,ITECTRA A/S,Denmark,Aalborg Municipality,Itectra,6d50f1e1-93e4-11eb-b4a6-27899be4e45d,Denmark,Aalborg,https://itectra.com/,0.9,1.0,High,Strong name match
+277,JACK OF DIGITAL (PRIVATE) LIMITED,Pakistan,Saddar Town,Jack of Digital,aceeb54f-027f-11ec-adbd-5ff720d6d289,Pakistan,Saddar Town,https://jackofdigital.com/,0.9,1.0,High,Strong name match
+278,AEON DANMARK A/S,Denmark,Vejle,Jansson El,3b4ba864-93e5-11eb-b5f6-816dd10ac7b0,Denmark,Vejle,https://jansson.dk/,0.736,0.56,High,Moderate name match
+279,Jastel Network Co Ltd,Thailand,Pak Kret City Municipality,Jastel,7f176bc0-93e4-11eb-a746-fdabd18be9c6,Thailand,Nonthaburi City Municipality,https://www.jastel.co.th/,0.8,1.0,High,Strong name match
+28,ALTAIR GLOBAL RELOCATION SINGAPORE PTE. LTD.,Singapore,Singapore,Altair Aesthetic,1a9cb61c-0d2d-11ec-8853-310171c0600e,Singapore,Singapore,https://altairaesthetic.com/,0.6216,0.536,Medium,Moderate name match
+280,JLL Corporate Solutions AB,Sweden,,JLL CORPORATE SOLUTIONS AB.,117f0e3f-9c88-11ef-8bab-03376d671938,Sweden,Stockholm,,0.75,1.0,High,Strong name match
+281,JOB-INDEX A/S,Denmark,Copenhagen,Jobindex,95040fb3-93e4-11eb-9937-4fab995bf8ff,Denmark,Copenhagen,https://jobindex.tv/,0.964,0.94,High,Strong name match
+282,JOBSTREET.COM PTE LTD,Singapore,Singapore,JobStreet,821f5497-93e4-11eb-a736-0f5b20ecb2f1,Malaysia,,https://www.jobstreet.com/,0.414,0.69,Low,Moderate name match
+283,JOHNSON CONTROLS DENMARK APS,Denmark,Aarhus,Sabroe,b9a72e67-93e4-11eb-8474-3bbe2d07207d,Denmark,Aarhus Municipality,https://www.sabroe.com/,0.9,1.0,High,Strong name match
+284,JONES LANG LASALLE PROPERTY CONSULTANTS PTE LTD,Singapore,,Jones Lang Lasalle Property Consultants Pte. Ltd.,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,Singapore,Singapore,,0.75,1.0,High,Strong name match
+285,Kahoot! Denmark ApS,Denmark,Copenhagen,NicOnline,6ef04b42-0fbd-11ec-970c-1da2e46f6b31,,,https://www.niconline.net/,0.48,0.8,Low,Good fuzzy name match
+286,KAMTOWER DANMARK A/S,Denmark,Copenhagen,KAMTOWER,4e032ab4-1240-11ec-943a-2bbc08a0d40e,India,Gurugram,https://kamtower.com/,0.6,1.0,Medium,Strong name match
+287,KANTAR TNS AS,Norway,Oslo,Kantar,0013bee4-93e5-11eb-b89f-536884b3e7dd,Norway,Oslo,https://kantar.no/,1.0,1.0,High,Strong name match
+288,"Kaon Broadband Co.,Ltd.",South Korea,Seongnam-si,KAON BROADBAND,39d1a58b-0586-11ec-ad6d-99fb67e6c4ba,South Korea,Seongnam-si,http://www.kaonbroadband.com/home.do?lang=en,0.9,1.0,High,Strong name match
+289,KERRY FREIGHT PAKISTAN (PRIVATE) LIMITED,Pakistan,,Kerry Freight Pakistan PVT LTD.,da7ed6a5-fb93-11ee-aa89-23a399016fc1,Pakistan,Karachi,,0.75,1.0,High,Strong name match
+29,"AMAZON WEB SERVICES, INC.",United States,Seattle,P o STER ART,6be202b0-a899-11ed-a9cf-ff6a091ebade,United States,Seattle,https://posterart.art/,0.94,0.9,High,Strong name match
+290,Kerry Logistics Network Limited,Hong Kong,Kwai Chung,Kerry Logistics,d06cf44c-93e4-11eb-a33a-a3dfba582839,Hong Kong,Hong Kong Island,https://kerrylogistics.com/,0.8,1.0,High,Strong name match
+291,KINLY HOLDING AS,Norway,Stavanger,Kinly,8c74710c-93e4-11eb-90d2-e3355a7e800b,United States,Rankin County,https://kinly.app/,0.6,1.0,Medium,Strong name match
+292,KINNARPS A/S,Denmark,Brøndby,Kinnarps,b0eab351-93e4-11eb-be5a-4f810ab55f2e,Denmark,Brøndbyvester,https://www.kinnarps.dk/,0.9,1.0,High,Strong name match
+293,KLM-ROYAL DUTCH AIRLINES Filial av utenlandsk foretak.,Norway,Oslo,Foretak. KLM-Royal Dutch Airlines filial Av utenlandsk,db8d8f95-f669-11ed-a149-9b392686bc00,Norway,Oslo,,0.9,1.0,High,Strong name match
+294,KM TELECOM DANMARK A/S,Denmark,Fredericia Municipality,KM TELECOM,483419e2-93e5-11eb-8474-3bbe2d07207d,Denmark,Fredericia Municipality,https://km-telecom.com/,1.0,1.0,High,Strong name match
+295,KMD Venture A/S,Denmark,Ballerup,KMD Kommunedata,fce64cb2-93e4-11eb-86dd-ffbd1b53140e,Denmark,Copenhagen,https://www.kmd.dk/,0.65,0.75,Medium,Good fuzzy name match
+296,KODA,Denmark,Copenhagen,Koda Talent,b8aad003-046a-11ed-b18e-07bfbde14f48,United Kingdom,London,https://www.kodatalent.com/,0.45,0.75,Low,Good fuzzy name match
+297,KOLEGRUPPEN OST ApS,Denmark,Ishøj Municipality,Kølegruppen Øst ApS.,48005fb1-93e5-11eb-8474-3bbe2d07207d,Denmark,Silkeborg,https://koelegruppen.dk/,0.708,0.93,High,Strong name match
+298,KOMMANDITAKTIESELSKABET FREDERIKSSUND SHOPPINGCENTER,Denmark,Aalborg,Frederikssund St.,0367192e-2d03-11ef-952e-0de48eef49d7,Denmark,Frederikssund,,0.6,0.75,Medium,Good fuzzy name match
+299,KORN FERRY (UK) LIMITED,United Kingdom,London,Korn Ferry,2a5d0b59-1b05-11ec-8de4-3bb83042adac,United Kingdom,London,,0.922,0.87,High,Good fuzzy name match
+3,3 STEP IT AS,Norway,Oslo,3 Step IT A/S.,45309031-f8ab-11ed-89fe-613148a94f23,Denmark,Gladsaxe Municipality,http://www.3stepit.dk/?opi=79508299&sa=U&ved=0ahUKEwiKsvSF7tyMAxWo78kDHfZKCtQQ61gIFCgQ&usg=AOvVaw1O2VrP_KM3o5n9XzsuUwLL,0.6,1.0,Medium,Strong name match
+30,AMAZON WEB SERVICES EMEA SARL,Luxembourg,,TKBEL,d7db1d69-93e4-11eb-90d2-e3355a7e800b,Luxembourg,Ettelbruck,https://tkbel.fr/,0.738,0.98,High,Strong name match
+300,Kpmg AS Hovedkontor,Norway,Oslo,Kpmg AS,f06c2d62-93e4-11eb-919a-b3f9a5ad205c,Norway,Vegårshei,http://www.kpmg.no/,0.6,0.75,Medium,Good fuzzy name match
+301,KROLL ASSOCIATES U.K. LIMITED,United Kingdom,London,Kroll,52c95451-18ff-11f0-b726-e3ae0b5c2c98,United Kingdom,London,https://krollescrow.com/en/services/agency-and-trustee-services/escrow-agent.html,0.775,0.625,High,Moderate name match
+302,Kromann Reumert,Denmark,Copenhagen,Kromann Reumert,76c8a6a0-93e4-11eb-b89f-536884b3e7dd,Denmark,Copenhagen,https://kromannreumert.com/,1.0,1.0,High,Strong name match
+303,LOXYSOFT AS,Norway,Oslo,Loxysoft,ccb5e8c5-49ac-11ef-9397-29a989c8ce8f,Sweden,Östersunds Kommun,https://www.loxysoft.se/,0.6,1.0,Medium,Strong name match
+304,LEASE PLAN FINANS A/S,Denmark,Brøndby,LEASE A BOX,b62def1d-09ce-11ed-b7b2-8da18dc3cc6a,Denmark,Helsinge,https://www.leaseabox.dk/,0.572,0.62,Medium,Moderate name match
+305,LeasePlan Sverige AB,Sweden,Solna,Leaseplan,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,Sweden,Solna,https://www.leaseplan.se/,0.75,0.75,High,Good fuzzy name match
+306,LEOCH BATTERY PTE. LTD.,Singapore,Singapore,LEOCH Battery,9b2222a0-9c13-11ec-a427-3716f54dd1e5,Singapore,Singapore,http://leoch.sg/,0.9,1.0,High,Strong name match
+307,LINKEDIN IRELAND UNLIMITED COMPANY,Ireland,Dublin 2,Locateai,48f6a691-93e5-11eb-8859-29e7c34dee35,United States,San Francisco,https://www.locate.ai/,0.6,1.0,Medium,Strong name match
+308,LINKEDIN SINGAPORE PTE. LTD.,Singapore,Singapore,Linkedin Local Singapore,bd538962-a9a1-11ec-819d-93d1c51cb0f0,Singapore,Singapore,https://www.localx.org/,0.84,0.9,High,Strong name match
+309,L.M. Ericsson Bangladesh Ltd.,Bangladesh,,LM Ericsson Bangladesh Ltd.,8fc467df-1b06-11ec-a68d-499e0c2c3a34,Bangladesh,Chattogram,,0.738,0.98,High,Strong name match
+31,"AMAZON WEB SERVICES EMEA SARL, NORWEGIAN BRANCH",Norway,Oslo,Amazon Web Services EMEA,4706bd71-93e5-11eb-aa66-9b8d95e2171b,,,https://logitech-events.com/,0.4714,0.7857,Low,Good fuzzy name match
+310,SCANOPTIK A/S,Denmark,Aalborg,Scan. Tek. Optik ApS.,5e5c806a-15d2-11ee-91ed-73baf7a27807,Denmark,Roskilde,,0.618,0.78,Medium,Good fuzzy name match
+311,LOYALTY AS,Norway,Oslo,Loyalty,3700913b-93e5-11eb-a746-fdabd18be9c6,Norway,Oslo,https://www.loyalty.no/,0.9,1.0,High,Strong name match
+312,MAKIO ApS,Denmark,Copenhagen,MAKIO,b43ac8b9-93e4-11eb-a746-fdabd18be9c6,Denmark,Copenhagen Municipality,https://makio.dk/,0.9,1.0,High,Strong name match
+313,Manpower Student AB,Sweden,Solna,Manpower,194b4815-93e5-11eb-a736-0f5b20ecb2f1,Sweden,Solna,https://www.manpower.se/sv/,0.804,0.84,High,Good fuzzy name match
+314,MANPOWER AS,Norway,Oslo,MANPOWER,753387b2-93e4-11eb-aa66-9b8d95e2171b,Norway,Oslo,https://www.manpower.no/nb,1.0,1.0,High,Strong name match
+315,Mapspeople A/S,Denmark,Nørresundby,MapsPeople,9e655640-93e4-11eb-a736-0f5b20ecb2f1,Denmark,Nørresundby,https://www.mapspeople.com/,1.0,1.0,High,Strong name match
+316,MARKEDSSJEFENE AS,Norway,Oslo,Markedssjefene,49eaca92-93e5-11eb-a33a-a3dfba582839,Norway,Oslo,https://www.markedssjefene.no/,1.0,1.0,High,Strong name match
+317,JLT Denmark A/S,Denmark,Lyngby-Taarbæk Municipality,Colas Danmark,002ff970-93e5-11eb-8ad6-7326edce8d21,Denmark,Horsens,http://colas.dk/,0.618,0.78,Medium,Good fuzzy name match
+318,MARSH & MCLENNAN AGENCIES AS,Norway,Oslo,Pure Agency,953c0129-060a-11ec-94fc-9b7b69f43bc0,Norway,Oslo,https://pureagency.no/,0.68,0.6333,Medium,Moderate name match
+319,Maven Wireless Sweden AB,Sweden,Stockholms Kommun,Maven Wireless,86550f01-93e4-11eb-97db-273ba5953680,Sweden,Stockholms Kommun,https://mavenwireless.com/,1.0,1.0,High,Strong name match
+32,AMDOCS DEVELOPMENT LIMITED,Cyprus,Limassol,Amdocs,bad43cb0-93e4-11eb-91fb-73d498260b10,United States,Chesterfield,https://www.amdocs.com/,0.45,0.75,Low,Good fuzzy name match
+320,MAVENIR SYSTEMS AB,Sweden,Solna,Mavenir Systems AB.,8a8769f3-f8b6-11ed-9214-3d96876bd85b,Sweden,Stockholm,,0.8,1.0,High,Strong name match
+321,MAVENIR SYSTEMS LIMITED,United Kingdom,Reading,Mavenir Systems Inc.,778051d9-057a-11ec-b41b-d7058b59cf68,United Kingdom,Henley-on-Thames,https://postsell.trade/,0.8,1.0,High,Strong name match
+322,MAVENIR SYSTEMS UK LIMITED,United Kingdom,Reading,Mavenir Systems Inc.,778051d9-057a-11ec-b41b-d7058b59cf68,United Kingdom,Henley-on-Thames,https://postsell.trade/,0.746,0.91,High,Strong name match
+323,Measat Satellite Systems Sdn. Bhd.,Malaysia,Sepang,MEASAT,1fb93f4c-93e5-11eb-a736-0f5b20ecb2f1,Malaysia,Cyberjaya,http://www.measat.com/,0.85,1.0,High,Strong name match
+324,Media Times Limited,Pakistan,Lahore District,Media Times Ltd.,37de0385-e6d6-11ed-8bb1-3d6aecbca671,Pakistan,Lahore,,0.8,1.0,High,Strong name match
+325,MEISEL EIENDOM AS,Norway,Lier,Meisel AS,ca6898fe-0d75-11ec-bc3a-abf705312cc2,Norway,,http://meisel.no/,0.6,0.75,Medium,Good fuzzy name match
+326,META PLATFORMS IRELAND LIMITED,Ireland,,META World,68a204a1-a872-11ed-a172-c70b75c2da79,Ireland,Dublin,https://metaworld.ie/,0.68,0.8,Medium,Good fuzzy name match
+327,MICROSOFT IRELAND OPERATIONS LIMITED,Ireland,Dublin,Microsoft Ireland Operations,146bd77c-4d69-11ed-b869-0b9c3de59569,Ireland,Dublin,https://nowubuy.shop/,0.9,1.0,High,Strong name match
+328,MICROSOFT NORGE AS,Norway,Oslo,Microsoft Norway,4c721116-1afb-11ec-8511-032f81df2a60,Norway,Oslo,http://www.microsoft.no/?opi=79508299&sa=U&ved=0ahUKEwij7OnH_6OMAxVSR2wGHUtXKMIQ61gIFCgQ&usg=AOvVaw28aI1DCJkLpz6OLarH1_XD,0.904,0.84,High,Good fuzzy name match
+329,MICROSOFT REGIONAL SALES PTE. LTD.,Singapore,Singapore,Micro Express Sales Pte Ltd.,161cca55-0fef-11ee-8498-a97a19847758,Singapore,Singapore,,0.726,0.71,High,Good fuzzy name match
+33,"American Express Europe Denmark, filial af American Express Europe S.A., Spanien",Denmark,Copenhagen,,,,,,0.3624,0.354,Unmatched,Name similarity too low (0.35)
+330,ABC KANTINEAUTOMATER ApS,Denmark,Høje-Taastrup Municipality,ABC Spilleautomater,2c53d1f1-6cf9-11ec-a598-5f2181f71be8,Denmark,Frederiksberg,https://abcspilleautomater.dk/,0.662,0.77,Medium,Good fuzzy name match
+331,NW GRUPPEN A/S,Denmark,Hedensted,SJ Gruppen,008645a7-332c-11ec-ba1b-799c0ee08065,Denmark,Faaborg,https://www.sj-container.dk/,0.642,0.82,Medium,Good fuzzy name match
+332,"MIXPANEL, INC.",United States,San Francisco,Mixpane,740de470-cf7a-11ec-8f8e-bde829059b5f,United States,San Francisco,http://cosmic-star.net/,0.95,1.0,High,Strong name match
+333,MNEMONIC AS,Norway,Oslo,mnemonic AS.,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,Norway,Oslo,https://www.mnemonic.io/,1.0,1.0,High,Strong name match
+334,MobilePeople ApS,Denmark,Herlev Municipality,Mobilepeople,a112cce1-0fd4-11ec-bad9-ebcc1813e8d3,Denmark,Herlev,https://mobilepeople.dk/,0.85,1.0,High,Strong name match
+335,"MOBILEUM, INC.",United States,Cupertino,Mobileum,06e7cc3b-aec8-11ed-917a-a9ac0bf7643e,United States,Cupertino,,1.0,1.0,High,Strong name match
+336,MODULEX DANMARK A/S,Denmark,Billund,Modulex,40e47543-93e5-11eb-8ad6-7326edce8d21,Denmark,Billund,https://modulex.com/,0.908,0.93,High,Strong name match
+337,Monday. Kum Ltd.,Israel,Tel Aviv-Yafo,Monday,0c78cf9d-93e5-11eb-86dd-ffbd1b53140e,Israel,Tel Aviv-Yafo,https://monday.com/,0.75,0.75,High,Good fuzzy name match
+338,Mustika Teratai Sdn. Bhd.,Malaysia,Johor Bahru,Mustika Teratai Sdn. Bhd.,b67a2282-e926-11ed-bb20-d929ca7b3418,Malaysia,Johor Bahru,,0.95,1.0,High,Strong name match
+339,NAGARRO AS,Norway,Oslo,Nagarro AG,227b170c-12dc-11ec-9dca-f567cb1bbc98,Germany,Munich,https://www.scada-xsight.de/,0.6,1.0,Medium,Strong name match
+34,American Express Europe SA (Norway),Norway,Oslo,American Express Company AS,d791fd63-e113-11ec-a72c-1538a9321a8e,Norway,Oslo,http://www.americanexpress.no/?opi=79508299&sa=U&ved=0ahUKEwiJ-N_liKSMAxX2TGwGHZRzErcQ61gIEigO&usg=AOvVaw27wLoj6gX0wm9eKmXSSFGk,0.85,0.75,High,Good fuzzy name match
+340,NAGARRO ENTERPRISE SERVICES PRIVATE LIMITED,India,Punjabi Bagh,Technowell,9e554ce0-9be1-11ec-abc1-152b394c15b6,India,Hyderabad,http://technowell.org.in/,0.648,0.83,Medium,Good fuzzy name match
+341,NEC CORPORATION,Japan,Tokyo,NEC Corporation of Malaysia,c43c3a03-93e4-11eb-8e19-198fb02d6f96,Japan,Tokyo,https://www.nec.com/,0.9,1.0,High,Strong name match
+342,NEC CORPORATION OF MALAYSIA SDN. BHD.,Malaysia,Kuala Lumpur,NEC Corporation Of Malaysia Sdn. Bhd.,24db63d1-8aa4-11ec-9150-8d453a1e7910,Malaysia,Kuala Lumpur,,0.9,1.0,High,Strong name match
+343,NEC Scandinavia Aktiebolag,Sweden,Stockholms Kommun,Dataphone,016a7543-93e5-11eb-919a-b3f9a5ad205c,Sweden,Stockholm,https://www.ip-only.se/,0.632,0.72,Medium,Good fuzzy name match
+344,NEMTILMELD.DK ApS,Denmark,Nørresundby,NemTilmeld,0cf1a919-93e5-11eb-86dd-ffbd1b53140e,Denmark,Nørresundby,https://www.nemtilmeld.dk/,0.922,0.87,High,Good fuzzy name match
+345,Nepa AB,Sweden,Stockholm,Nepa Sweden AB.,b1c3fc50-93e4-11eb-a736-0f5b20ecb2f1,Sweden,Stockholm,https://nepa.com/,1.0,1.0,High,Strong name match
+346,NERAS DIREKTE AS,Norway,Drammen,Neras direkte,a19f2484-93e4-11eb-b4a6-27899be4e45d,Norway,Trondheim,https://nerasdirekte.no/,0.75,1.0,High,Strong name match
+347,Nestor Cables Oy,Finland,Oulu,Nestor Cables,83ad4797-93e4-11eb-97db-273ba5953680,Finland,Oulu,https://www.nestorcables.fi/,1.0,1.0,High,Strong name match
+348,NET ONE ASIA PTE. LTD.,Singapore,Singapore,Net One Asia,36898c82-93e5-11eb-97db-273ba5953680,Singapore,Singapore,https://www.netoneasia.com/,0.95,1.0,High,Strong name match
+349,NETIC A/S,Denmark,Aalborg,Netic,3e619af8-93e5-11eb-8859-29e7c34dee35,Denmark,Aalborg,http://netic.dk/,1.0,1.0,High,Strong name match
+35,ANALYSYS MASON AS,Norway,Oslo,Analysys Mason,e97d1f55-93e4-11eb-be3a-7f925cb94351,Italy,Milan,https://www.analysysmason.com/,0.6,1.0,Medium,Strong name match
+350,NETS DANMARK A/S,Denmark,Ballerup,Nets group,1821bc30-93e5-11eb-a746-fdabd18be9c6,Denmark,Ballerup,https://nets.eu/,0.952,0.92,High,Strong name match
+351,New Skies Satellites B.V.,Netherlands,The Hague,New Skies Satellites B.V.,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,Netherlands,The Hague,,0.9,1.0,High,Strong name match
+352,NEWS PUBLICATIONS (PRIVATE) LIMITED,Pakistan,Karachi,OK! Pakistan,98bdcc4e-0ece-11ec-8f6e-c368f4fbdb63,Pakistan,Karachi Division,https://okpakistan.com/,0.698,0.83,Medium,Good fuzzy name match
+353,NEXCOM A/S,Denmark,Copenhagen,Nexcom A/S.,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Denmark,Copenhagen,http://www.nexcom.dk/,0.9,1.0,High,Strong name match
+354,NOITSO A/S,Denmark,Copenhagen,Experian,0bc250d0-93e5-11eb-b5f6-816dd10ac7b0,Denmark,Copenhagen,http://www.experian.dk/,0.9,1.0,High,Strong name match
+355,Nokia Innovations Oy,Finland,Espoo,Nokia Foundation,3d547a04-72bb-11ec-b5ce-b3bda5adefa4,Finland,Espoo,https://nokiafoundation.com/,0.838,0.73,High,Good fuzzy name match
+356,NOKIA SERVICES AND NETWORKS MALAYSIA SDN. BHD.,Malaysia,,Nokia Solutions And Networks Sdn Bhd.,74601f29-1afc-11ec-aa0f-ab42aaaa4d70,Malaysia,Kuala Lumpur,,0.618,0.78,Medium,Good fuzzy name match
+357,NOKIA SOLUTIONS AND NETWORKS NORGE AS,Norway,Bærum,Nokia solutions And Networks Norge AS,5c494e9a-1b04-11ec-b160-7721fd8862eb,Norway,Oslo,,0.75,1.0,High,Strong name match
+358,Nokia Solutions and Networks Oy,Finland,Espoo,HEXA-X Consortium,1d0e5cd1-0a98-11ec-bfa5-67a4bc68de73,Finland,Espoo,https://hexa-x.eu/,1.0,1.0,High,Strong name match
+359,"NORDEA BANK ABP, FILIAL I NORGE",Norway,Oslo,Nordea,7404600f-02ea-11ed-9330-439ae68059a7,Norway,Oslo,https://nordeea.co.uk/,0.85,0.75,High,Good fuzzy name match
+36,MASON SITE FINDER LIMITED,United Kingdom,Salford,Mason Contract Services,e16f0714-729b-11ec-82c4-1d4ff65030ff,United Kingdom,Grays,https://masongroup.co.uk/,0.644,0.74,Medium,Good fuzzy name match
+360,NORDIC COMPUTER A/S,Denmark,Nørresundby,Nordic Computer,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,Denmark,Nørresundby,https://nordiccomputer.com/,1.0,1.0,High,Strong name match
+361,NORDIX DATA AS,Norway,Tromsø,Nordix Data,8449aea3-93e4-11eb-86dd-ffbd1b53140e,Norway,Tromsø,https://www.nordix.no/,1.0,1.0,High,Strong name match
+362,DMA Research A/S,Denmark,Copenhagen,Dansk Miljø Analyse,9774c193-93e4-11eb-a746-fdabd18be9c6,Denmark,Rudersdal Municipality,http://dma.nu/,0.65,0.75,Medium,Good fuzzy name match
+363,NORWEGIAN AIR SHUTTLE AS (PS),Norway,Ullensaker,Norwegian,41857037-93e5-11eb-97db-273ba5953680,Norway,Fornebu,https://www.norwegian.com/,0.764,0.94,High,Strong name match
+364,NOVATARIS A/S,Denmark,Copenhagen,Novataris,1da9722c-93e5-11eb-86dd-ffbd1b53140e,Denmark,Copenhagen,https://www.novataris.com/en/,1.0,1.0,High,Strong name match
+365,Ntt (Thailand) Ltd,Thailand,Bangkok,NTT DATA Thailand,5212c34c-f8af-11ed-b2ae-8f7420b1f92e,Thailand,Bangkok,,0.8,0.8333,High,Good fuzzy name match
+366,NTT ASIA PACIFIC HOLDINGS PTE. LIMITED,Singapore,Singapore,Amazon,04ffa9f7-93e5-11eb-8ad6-7326edce8d21,Singapore,Singapore,https://www.amazon.sg/,0.732,0.72,High,Good fuzzy name match
+367,NTT DATA Business Solutions Korlatolt Felelossegu Tarsasag,Hungary,Budapest,NTT DATA Business Solutions Hungary,44dda433-8ac1-11ec-b892-9b33177d601b,Hungary,Budapest,,0.7474,0.7457,High,Good fuzzy name match
+368,ITELLIGENCE A/S,Denmark,,ITELLIGENCE,12ff4322-f5c3-11ed-9837-d559166cf045,Colombia,Bogota,,0.6,1.0,Medium,Strong name match
+369,Ntt Malaysia Solutions Sdn. Bhd.,Malaysia,Petaling Jaya,Malaysia Microelectronic Solutions,949c9b55-93e4-11eb-8474-3bbe2d07207d,Malaysia,Petaling Jaya,https://my-ms.com/,0.858,0.93,High,Strong name match
+37,ANDCO A/S,Denmark,Copenhagen,Andco A/S.,d7aa707f-93e4-11eb-9937-4fab995bf8ff,Denmark,Copenhagen,https://www.andco.dk/,1.0,1.0,High,Strong name match
+370,Ntt Msc Sdn. Bhd.,Malaysia,Petaling Jaya,NTT Cloud Communications Malaysia Sdn Bhd.,6db1413a-1d6a-11ef-8ca4-a917ae6b537d,Malaysia,Petaling Jaya,,0.825,0.7083,High,Good fuzzy name match
+371,OCH A/S,Denmark,Copenhagen,Och DK A/S.,a25c4651-1e9d-11ef-8493-1bd9c889e9e7,Denmark,Copenhagen,,0.8,0.75,High,Good fuzzy name match
+372,OK A.M.B.A.,Denmark,Aarhus Municipality,OK a.m.b.a,d9669f7b-93e4-11eb-91fb-73d498260b10,Denmark,Copenhagen,https://www.ok.dk/,0.75,1.0,High,Strong name match
+373,Omd (M) Sdn. Bhd.,Malaysia,Petaling Jaya,OMD World Imaging,a54919b7-93e4-11eb-b4a6-27899be4e45d,Malaysia,Kuala Lumpur,https://omdworldimaging.com/,0.65,0.8333,Medium,Good fuzzy name match
+374,OMD AS,Norway,Oslo,OMD Norway,c7578028-8aa5-11ec-8962-8b4db591a2d2,Norway,Oslo,,0.8,0.75,High,Good fuzzy name match
+375,Media Direction A/S,Denmark,Copenhagen,New Media Direction,ac63db81-72e7-11ec-8200-bfd1296681fb,Denmark,Copenhagen,http://www.newmediadirection.dk/,0.828,0.88,High,Good fuzzy name match
+376,OMEGA EXIM LIMITED,Bangladesh,Dhaka Metropolitan,Omega Exim Limited,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,Bangladesh,Dhaka,https://www.omegaeximltd.com/,0.85,1.0,High,Strong name match
+377,OMNICOM MEDIA GROUP AS,Norway,Oslo,Omnicom Media Group AS,56287c74-2509-11ec-bde8-71cf682bd51e,Norway,Oslo,,0.95,1.0,High,Strong name match
+378,OMNICOM MEDIA GROUP ASIA PACIFIC PTE. LTD.,Singapore,Queenstown,Omnicom Media Group Asia Pacific,c1a538ea-8a9a-11ec-a4f2-5511448670fd,Singapore,,,0.808,0.93,High,Strong name match
+379,ON THE SPOT A/S,Denmark,Copenhagen,ON THE SPOT,50a6dd3e-c175-11ec-8c4a-c37e31e9be9e,Denmark,Copenhagen,,1.0,1.0,High,Strong name match
+38,Annalect Denmark A/S,Denmark,Copenhagen,ANNALECT,cfc5f77c-ce95-11ed-953a-9d8f156b9731,Denmark,Copenhagen,https://annalectnordics.com/,1.0,1.0,High,Strong name match
+380,ONETRUST TECHNOLOGY LIMITED,United Kingdom,London,ONETRUST,16e25e63-93e5-11eb-b5f6-816dd10ac7b0,United Kingdom,London,https://cookiepedia.co.uk/,0.9,1.0,High,Strong name match
+381,Oracle Corporation (Thailand) Co Ltd,Thailand,Bang Rak District,Oracle Thailand,28c323bf-1b00-11ec-8cde-5bc5ac073f72,Thailand,Bang Rak Subdistrict,,0.942,1.0,High,Strong name match
+382,Oracle Corporation Malaysia Sdn. Bhd.,Malaysia,,Oracle Corporation Sdn. Bhd.,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,Malaysia,Kuala Lumpur,,0.725,0.875,High,Good fuzzy name match
+383,ORACLE DANMARK APS,Denmark,,Oracle Danmark,870eb57e-1b04-11ec-98ad-4b5172a2ed18,Denmark,Gentofte Municipality,,0.75,1.0,High,Strong name match
+384,ORACLE NORGE AS,Norway,Bærum,Oracle Norge AS,147df165-1b04-11ec-9b02-8dfd4ec6ef01,Norway,Bærum,,0.95,1.0,High,Strong name match
+385,ORACLE SVENSKA AB,Sweden,,Oracle Pet,9618c304-6ce1-11ed-809b-653634c631b4,Sweden,Västerås Kommun,https://oraclepet.com/,0.6,0.75,Medium,Good fuzzy name match
+386,Orbis Oy,Finland,Vantaa,Worbis,80ea7e12-93e4-11eb-be3a-7f925cb94351,Finland,Vantaa,https://orbis.fi/,0.95,1.0,High,Strong name match
+387,OROGENIC ApS,Denmark,Vejle,Orogenic,da01a6ec-93e4-11eb-b4a6-27899be4e45d,Denmark,Vejle,https://orogenic.dk/,0.95,1.0,High,Strong name match
+388,"ORRICK, HERRINGTON & SUTCLIFFE (UK) LLP",United Kingdom,London,Orrick Herrington & Sutcliffe,14907f20-93e5-11eb-a736-0f5b20ecb2f1,United States,San Francisco,https://www.orrick.com/,0.6,1.0,Medium,Strong name match
+389,P1 SECURITY,France,Paris,P1 Security,cd85b2eb-93e4-11eb-b5f6-816dd10ac7b0,France,Paris,https://www.p1sec.com/,1.0,1.0,High,Strong name match
+39,Anne Mette Lund,Denmark,Haderslev,Anne Mette Høy,02115b2b-65f6-11ef-a567-7774974824cc,Denmark,Vejle,http://mindre-stress.dk/?opi=79508299&sa=U&ved=0ahUKEwi4mfaSm-SMAxVfE1kFHS_HLHoQ61gIEigP&usg=AOvVaw21SI8OJlgK9_li2AWT-KF8,0.722,0.87,High,Good fuzzy name match
+390,"Paco Casa Co.,Ltd.",Thailand,Bang Kapi District,PACO CASA a,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,Thailand,Bangkok,https://pacocasa.co.th/,0.85,1.0,High,Strong name match
+391,PAKISTAN INSTITUTE OF NUCLEAR SCIENCE & TECHNOLOGY (PINSTECH),Pakistan,Islamabad,Pakistan Institute of Nuclear Science & Technology,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,Pakistan,Islamabad,,0.9071,0.9286,High,Strong name match
+392,PARENT AND FAMILY CONSULTING LIMITED,United Kingdom,London,Parent Zone Local,10dd8776-724b-11ec-9e45-ddda6fbc521a,United Kingdom,London,http://www.parentzone.org.uk/?opi=79508299&sa=U&ved=0ahUKEwjal9D86OCMAxW32QIHHd1VFxAQ61gIFigS&usg=AOvVaw29f1d3VxsM5nQbkYO5_T7_,1.0,1.0,High,Strong name match
+393,PELATRO LIMITED,United Kingdom,London,Pelatro,8bcce5c1-8aa9-11ec-aad9-15d72f2b9d1a,India,Bengaluru,,0.6,1.0,Medium,Strong name match
+394,Varsta Software,Finland,Tampere,Varsta Petri,c309a60b-27bf-11ef-815c-4d862d07c012,Finland,Helsinki,,0.552,0.67,Medium,Moderate name match
+395,PING IT A/S,Denmark,Aalborg Municipality,Ping IT,424a94f5-93e5-11eb-8474-3bbe2d07207d,Denmark,Svenstrup,https://pingit.dk/,0.8,1.0,High,Strong name match
+396,Playable ApS,Denmark,Aarhus,Playable,fbe50634-036a-11ec-a72b-432edcbee847,Denmark,Aarhus,https://playable.com/,1.0,1.0,High,Strong name match
+397,PLESNER Advokatpartnerselskab,Denmark,Copenhagen,Plesner,7c54f062-93e4-11eb-b5f6-816dd10ac7b0,Denmark,Copenhagen,https://plesner.com/en,1.0,1.0,High,Strong name match
+398,PLP INVEST/EJENDOMME A/S,Denmark,Odense Kommune,PLP Invest Ejendomme,602ace8c-0c5e-11ec-b66a-97ea7481e556,Denmark,Odense,https://plp-ejendomme.dk/,0.85,1.0,High,Strong name match
+399,"PLURALSIGHT, LLC",United States,Draper,Pluralsight,16f3bda9-055e-11ec-912d-93da5cd6dce1,United States,Draper,http://tordkalvenes.com/,1.0,1.0,High,Strong name match
+4,3 Step IT Sweden AB,Sweden,Linköping,Proact IT Sweden,e5cede70-0409-11ed-a83d-25d09483d16d,Sweden,Gothenburg,http://www.proact.se/,0.6055,0.69,Medium,Moderate name match
+40,ANRITSU A/S,Denmark,Copenhagen,ANRITSU,172e7ea7-0523-11ec-a64f-cb86dbe4969b,,,https://tiancunwu.com/,0.6,1.0,Medium,Strong name match
+400,PM ENERGI A/S,Denmark,Brønderslev,Pm energi,b529e3a6-93e4-11eb-8859-29e7c34dee35,Denmark,Brønderslev,https://pmenergi.dk/,1.0,1.0,High,Strong name match
+401,Postnord Danmark (B2452),Denmark,Copenhagen,PostNord,fac6c825-93e4-11eb-86dd-ffbd1b53140e,Denmark,Copenhagen,https://www.postnord.dk/,0.804,0.84,High,Good fuzzy name match
+402,POSTEN BRING AS,Norway,Oslo,Posten Bring,42c3ecf7-1d65-11ee-9df5-e543427f87fa,Norway,Oslo,https://www.postenbring.no/,1.0,1.0,High,Strong name match
+403,DATA SCANNING A/S,Denmark,Copenhagen,Scanning,93cb1a81-93e4-11eb-a746-fdabd18be9c6,Denmark,Albertslund Municipality,http://scanning.dk/,0.656,0.76,Medium,Good fuzzy name match
+404,PostNord Stralfors AB,Sweden,Ljungby,Strålfors,f3137fa4-93e4-11eb-be5a-4f810ab55f2e,Sweden,Ljungby,http://www.stralfors.se/,0.882,0.97,High,Strong name match
+405,PRICEWATERHOUSECOOPERS STATSAUTORISERET REVISIONSPARTNERSELSKAB,Denmark,Copenhagen,Pricewaterhousecoopers Statsautoriseret Revisionspartnerselskab,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,Denmark,Odense,,0.75,1.0,High,Strong name match
+406,PRICEWATERHOUSECOOPERS AS,Norway,Oslo,PricewaterhouseCoopers Norway,d4239772-8546-11ec-8f98-f9b40efdfe08,Norway,Oslo,https://www.pwcmisconduct.com/,0.816,0.86,High,Good fuzzy name match
+407,PROPAKISTANI SOLUTIONS (PRIVATE) LIMITED,Pakistan,,ProPakistani,d6682c74-93e4-11eb-919a-b3f9a5ad205c,Pakistan,,https://propakistani.pk/,0.6,0.75,Medium,Good fuzzy name match
+408,DRAKA NORSK KABEL AS,Norway,Drammen,,,,,,0.61,0.35,Unmatched,Name similarity too low (0.35)
+409,Publicis Groupe Holdings B.V.,Netherlands,,Publicis Groupe,00f0d873-93e5-11eb-8474-3bbe2d07207d,Netherlands,Amsterdam,https://publicisgroupe.nl/,0.75,1.0,High,Strong name match
+41,Aon Assessment Denmark A/S,Denmark,Copenhagen,,,,,,0.64,0.4,Unmatched,Name similarity too low (0.40)
+410,QCC GLOBAL LIMITED,United Kingdom,Wells,QCC Global,d9f2b2c1-93e4-11eb-a746-fdabd18be9c6,United Kingdom,London,https://qccglobal.com/,0.8,1.0,High,Strong name match
+411,QCC INTERSCAN LTD,United Kingdom,Wells,Interscan Transportation,5a4d70a9-183a-11f0-8286-8d0ea701f907,United Kingdom,Uxbridge,https://interscanltd.co.uk/,0.692,0.82,Medium,Good fuzzy name match
+412,QLIKTECH DENMARK ApS,Denmark,Copenhagen,Qliktech,463be1c1-2500-11ec-abad-a332bf576a25,Denmark,Copenhagen,http://www.qlikview.com/dk,0.8,0.75,High,Good fuzzy name match
+413,QlikTech International Markets AB,Sweden,,QLIKTECH INTERNATIONAL MARKETS AB.,6e78222b-9df5-11ef-a80f-179817213e61,Sweden,Lund,,0.75,1.0,High,Strong name match
+414,QlikTech Nordic AB,Sweden,,QLIKTECH INTERNATIONAL AB.,55862ac9-9d66-11ef-aecb-ed811e9ee609,Sweden,Lund,,0.57,0.7,Medium,Good fuzzy name match
+415,"QUALTRICS, LLC",United States,,Qualtrics,2f88cb22-93e5-11eb-aa66-9b8d95e2171b,United States,Provo,https://www.qualtrics.com/,0.75,1.0,High,Strong name match
+416,QUESTBACK AS,Norway,Oslo,Questback,e6d9287a-93e4-11eb-be3a-7f925cb94351,Norway,Oslo,https://www.questback.com/,1.0,1.0,High,Strong name match
+417,Radio Frequency Systems Gesellschaft mit beschrankter Haftung,Germany,Hanover,Radio Frequency Systems,7e7ca675-0db6-11ec-aaad-e5a5ee267b5b,Germany,Hanover,https://www.rfsworld.net/,0.8286,0.7143,High,Good fuzzy name match
+418,RAJAH & TANN,Singapore,Singapore,Rajah & Tann,d107ada1-93e4-11eb-8859-29e7c34dee35,Singapore,Singapore,https://www.rajahtannasia.com/,0.9,1.0,High,Strong name match
+419,RAPID7 INTERNATIONAL LIMITED,United Kingdom,London,Rapid 7 EMEA Internal Moose,1a62837c-2d2f-11ed-bca0-45d3b4f58bc5,United Kingdom,Camberley,https://www.emea-internalmoose-swag.com/,0.65,0.75,Medium,Good fuzzy name match
+42,AON NORWAY AS,Norway,Oslo,Aon Norway,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,Norway,Oslo,,0.95,1.0,High,Strong name match
+420,Red Hat Asia Pacific Pte Ltd,Singapore,Singapore,Red Hat Asia Pacific,9973fa6b-8aae-11ec-be09-3b46a3ec669e,Singapore,Singapore,,0.846,0.91,High,Strong name match
+421,RED HAT LIMITED,Ireland,Cork,Red PR Limited,1d6c9026-93e5-11eb-a736-0f5b20ecb2f1,Ireland,Clonmel,https://redpr.ie/,0.602,0.67,Medium,Moderate name match
+422,Red Hat Malaysia Sdn. Bhd.,Malaysia,,Red Harvest Malaysia,8d744e31-ca8a-11ec-bce4-ef3debe8cbb7,Malaysia,Puchong,https://redharvestmalaysia.com/,0.588,0.73,Medium,Good fuzzy name match
+423,RELOCATION AS,Norway,Stavanger,Relocation,13d6cc27-93e5-11eb-8474-3bbe2d07207d,Norway,Stavanger,https://relocation.no/,0.95,1.0,High,Strong name match
+424,RETAIL FOCUS A/S,Denmark,Kongens Lyngby,Retail Institute Scandinavia,177157fd-93e5-11eb-b997-8dd98d09cf25,Denmark,Kongens Lyngby,https://retailinstitute.dk/,0.802,0.67,High,Moderate name match
+425,REVEALCX LLC,United States,New Castle,RevealCX Inc.,168fa5a3-20d1-11ee-955b-359ace42ebb8,United States,New York,https://aiincx.com/,0.75,1.0,High,Strong name match
+426,Rezponz A/S,Denmark,Aalborg,Rezponz,c8b67a70-c825-11ec-89f7-7594ea00aeb1,Denmark,Aalborg,https://rezponz.dk/,1.0,1.0,High,Strong name match
+427,Rhenus Warehousing Solutions Denmark A/S,Denmark,Horsens,Rhenus Warehousing Solutions,11a58013-c50b-11ef-9531-7716dbb12d27,Denmark,Horsens,,0.928,0.88,High,Good fuzzy name match
+428,RITTAL A/S,Denmark,Vallensbæk Municipality,Rittal A/S.,83718e53-1b00-11ec-a945-71766a416f0a,Denmark,Vallensbæk Municipality,http://www.rittal.dk/?opi=79508299&sa=U&ved=0ahUKEwj7qtnvvqOMAxVcTWwGHeNXIHUQ61gIEigP&usg=AOvVaw0S8lQM4PcIscN3aJ4j66ru,1.0,1.0,High,Strong name match
+429,RTTD LTD,United Kingdom,London,RTTD,b9b2d1d2-9a09-11ec-9faf-49592d66acb7,Germany,Osnabrück,https://www.rttd.de/,0.6,1.0,Medium,Strong name match
+43,APPDYNAMICS UK LTD,United Kingdom,London,AppDynamic,f7b252d4-fa1c-11ec-83db-47cce081a4ab,United Kingdom,Feltham,http://stluciakitefiesta.com/,0.728,0.88,High,Good fuzzy name match
+430,BRINTH & HILLERUP A/S,Denmark,Aarhus,Hillerup Gredstedbro,7f97d223-2c88-11ef-93fc-330634d134dc,Denmark,Ribe,,0.57,0.7,Medium,Good fuzzy name match
+431,SAGEMCOM BROADBAND SAS,France,Rueil-Malmaison,Sagemcom,e3e3b642-93e4-11eb-9937-4fab995bf8ff,France,Bois-Colombes,https://sagemcom.com/fr,0.8,1.0,High,Strong name match
+432,"SAILPOINT TECHNOLOGIES, INC.",United States,,SAILPOINT TECHNOLOGIES,391eb2e4-181d-11f0-8284-6dfd2009e8a0,United States,Houston,https://www.sailpointt.xyz/,0.75,1.0,High,Strong name match
+433,SALESFORCE UK LIMITED,United Kingdom,London,independent SalesForce,f69664d0-93e4-11eb-8e19-198fb02d6f96,United Kingdom,Ormskirk,http://independentsalesforce.co.uk/,0.722,0.87,High,Good fuzzy name match
+434,SALESFORCE.COM SINGAPORE PTE. LTD.,Singapore,Singapore,,,,,,0.602,0.42,Unmatched,Name similarity too low (0.42)
+435,Salling Group Forsikring A/S,Denmark,Aarhus Municipality,Salling Group,ceff37a2-02d7-11ed-8baf-6351820414ca,Denmark,Aarhus,https://puchcykler.dk/,0.75,0.75,High,Good fuzzy name match
+436,Saluran Cekap (M) Sdn. Bhd.,Malaysia,Ampang Jaya Municipal Council,Saluran Cekap M Sdn Bhd.,b1e580a1-583d-11ec-91ee-edc6c109839b,Malaysia,Ampang Jaya,,0.841,1.0,High,Strong name match
+437,SAMSUNG ELECTRONICS NORDIC AKTIEBOLAG,Sweden,Stockholms Kommun,Samsung Electronics Nordic AB.,2d6323ad-1afe-11ec-be37-19557aad561c,Sweden,Stockholms Kommun,,0.875,0.875,High,Good fuzzy name match
+438,SANVARU TECHNOLOGY LIMITED,India,Sonipat,Sanvaru Technology,425606ac-93e5-11eb-919a-b3f9a5ad205c,India,Sonipat,https://sanvaru.com/,0.95,1.0,High,Strong name match
+439,SAP DANMARK A/S,Denmark,Copenhagen,Invoicery,9c25ed98-93e4-11eb-8474-3bbe2d07207d,Denmark,Copenhagen,https://www.invoicery.dk/,0.868,0.78,High,Good fuzzy name match
+44,APPLE DISTRIBUTION INTERNATIONAL LIMITED,Ireland,,Apple Distribution International,72b33d10-1afd-11ec-9842-212d1c52ad77,Ireland,Cork,,0.75,1.0,High,Strong name match
+440,SAS INSTITUTE AS,Norway,Oslo,SAS Institute,06bef23d-ae8e-11ef-9eca-7fabbf10324c,India,Hyderabad,https://sasinstitute.in/,0.6,1.0,Medium,Strong name match
+441,SAVILLE CONSULTING DANMARK A/S,Denmark,Rudersdal Municipality,Saville Consulting Danmark,1930e241-93e5-11eb-b5f6-816dd10ac7b0,Denmark,Rudersdal Municipality,https://www.savilleconsulting.dk/,0.9,1.0,High,Strong name match
+442,SCHNEIDER ELECTRIC DANMARK A/S,Denmark,Ballerup,Schneider Electric Denmark A/S.,0252d979-93e5-11eb-8859-29e7c34dee35,Denmark,,https://www.studiecd.dk/,0.726,0.96,High,Strong name match
+443,Scrive AB,Sweden,,Scrive,ac84e842-93e4-11eb-919a-b3f9a5ad205c,Sweden,Stockholm,http://www.scrive.com/,0.75,1.0,High,Strong name match
+444,ServiceNow Nederland B.V.,Netherlands,Amsterdam,ServiceNow BV.,77842e7a-93e4-11eb-8474-3bbe2d07207d,Netherlands,Amsterdam,https://www.servicenow.nl/?opi=79508299&sa=U&ved=0ahUKEwjK0bG5yquMAxW2SGwGHbipE38Q61gIFigS&usg=AOvVaw3HAkGOUFTnqkqTbd1TwYS9,0.85,0.75,High,Good fuzzy name match
+445,SFDC IRELAND LIMITED,Ireland,Dublin,Salesforce,c2d270d1-93e4-11eb-8ad6-7326edce8d21,United States,San Francisco,https://www.salesforce.com/,0.45,0.75,Low,Good fuzzy name match
+446,"SHANDONG SACRED SUN POWER SOURCES CO., LTD",China,Qufu,Sacred Sun,19b665f0-93e5-11eb-a736-0f5b20ecb2f1,China,Lucheng,https://sacredsun.com/,0.85,1.0,High,Strong name match
+447,"SHENZHEN CENTER POWER TECH. CO., LTD.",China,Shenzhen,Vision_Smart_Batteries_Backup_Power,427adc04-e7a9-11ec-b6b7-8f4fbf416354,China,Shenzhen,https://www.g0t8tt0j.com/,0.9,1.0,High,Strong name match
+448,"Shenzhen Huaptec Co., Ltd",China,Shenzhen,Shenzhen Aomiou Technology Co. Ltd.,004ef7e0-aec3-11ef-86b6-3b0e501976c1,China,Shenzhen,https://aomiou.en.alibaba.com/,0.772,0.62,High,Moderate name match
+449,"Shenzhen Sdmc Technology Co., Ltd",China,Shenzhen,XMediaCloud,83d0637d-e5e0-11ec-bc14-1101693c4049,China,Shenzhen,https://www.xmediacloud.com/,0.9,1.0,High,Strong name match
+45,APPLE DISTRIBUTION INTERNATIONAL LIMITED,Ireland,Cork,Apple Distribution International,72b33d10-1afd-11ec-9842-212d1c52ad77,Ireland,Cork,,0.9,1.0,High,Strong name match
+450,"SHENZHEN SKYWORTH DIGITAL TECHNOLOGY CO., LTD.",China,Shenzhen,SKYWORTH,9b5c0de3-93e4-11eb-8ad6-7326edce8d21,China,Shenzhen,https://skyworth.com/,0.9,1.0,High,Strong name match
+451,SHIELDS ENVIRONMENTAL GROUP LTD,United Kingdom,South Ockendon,Sapphire Steel,2c92a3fa-796c-11ed-9abd-874b38645ac9,United Kingdom,South Ockendon,https://www.sapphiresteel.co.uk/,0.676,0.46,Medium,Moderate name match
+452,"Shuangdeng Group Co., Ltd.",China,Taizhou,Shuangdeng Group,2f5615e0-0d48-11ec-baff-b3f7938105ab,China,Taizhou,http://www.shuangdeng.com.cn/,0.95,1.0,High,Strong name match
+453,Siae Microelettronica Sdn. Bhd.,Malaysia,Petaling Jaya,Cube-Coms,13b510b2-6cd5-11ec-a7ce-97f401b36f3f,Malaysia,Subang Jaya,https://cube-coms.com/,0.548,0.58,Medium,Moderate name match
+454,Siae-microelettronica - S.p.a.,Italy,Cinisello Balsamo,SIAE MICROELETTRONICA,1d3ad1c3-93e5-11eb-a746-fdabd18be9c6,Italy,Cologno Monzese,https://siaemic.com/,0.8,1.0,High,Strong name match
+455,Sievo Oy,Finland,Helsinki,Sievo Bucharest Office,a823b0f3-93e4-11eb-aa66-9b8d95e2171b,Finland,Helsinki,https://sievo.com/,1.0,1.0,High,Strong name match
+456,SIGNICAT AS,Norway,Trondheim,Kantega,7f321fd7-93e4-11eb-8859-29e7c34dee35,Norway,Oslo,https://www.kantega.no/,0.75,1.0,High,Strong name match
+457,SILLEHOVED ApS,Denmark,Odsherred Municipality,Sillehoved,ab1c21c0-f8b5-11ed-a8b3-7b4d48a6e9d9,Denmark,Odsherred Municipality,,1.0,1.0,High,Strong name match
+458,SINGTEL GLOBAL INVESTMENT PTE. LTD.,Singapore,Singapore,Robo Global Investment,0cb473fa-f6e1-11ec-a34e-db0bb32b96ad,Singapore,Singapore,https://roboglobal.info/,0.834,0.89,High,Good fuzzy name match
+459,SiPM,Belgium,Hasselt,School of Indian Percussion and Music,e686749e-93e4-11eb-86dd-ffbd1b53140e,United States,Cedar Park,https://www.austinsipm.org/,0.6,1.0,Medium,Strong name match
+46,Apple Malaysia Sdn. Bhd.,Malaysia,Kuala Lumpur,Apple Malaysia Sdn Bhd.,50c0e708-22bf-11ec-9024-ef7bc13965aa,Malaysia,Kuala Lumpur,,0.9975,1.0,High,Strong name match
+460,Skillpower Services (Thailand) Co Ltd,Thailand,Yan Nawa District,ALE -Heavylift and Transport Thailand Co Ltd.,4d74d00b-bd14-11ed-bb0a-ad68c32a1269,,,https://325972.com/,0.6,1.0,Medium,Strong name match
+461,SKYCALL AS,Norway,Bærum,Skycall AS,8a5c3f6b-93e4-11eb-be3a-7f925cb94351,Norway,Bærum,https://skycallas.no,1.0,1.0,High,Strong name match
+462,Smart Media4U Technology Pte. Ltd.,Singapore,Singapore,Smart city technologies,c3d1aee0-fcc1-11ed-8628-bd8e2d8d8a31,Singapore,Singapore,https://smartcitytechnologies.com.sg/,0.834,0.89,High,Good fuzzy name match
+463,SMART TECHNOLOGIES (BD) LIMITED,Bangladesh,Dhaka,Smart Technologies BD Ltd. Store Room,16a46b07-93e5-11eb-aa66-9b8d95e2171b,Bangladesh,Dhaka,https://smartbd.com/,0.83,0.8,High,Good fuzzy name match
+464,Smartly.io Holding Inc,Finland,Helsinki,Smartly Chicago,b75416a1-93e4-11eb-be3a-7f925cb94351,United States,Chicago,https://www.smartly.io/,0.492,0.82,Low,Good fuzzy name match
+465,SNOW SOFTWARE AB,Sweden,,SNOW SOFTWARE,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,Sweden,Stockholm,https://snowsoftware.com/,0.75,1.0,High,Strong name match
+466,Snow Software ApS,Denmark,Gladsaxe Municipality,Snow Software ApS.,5516dd90-aaf0-11ef-baa5-b1d00e182d98,Denmark,,https://snow-software.cc/,0.75,1.0,High,Strong name match
+467,SNOW AS,Norway,Bærum,Snow Stock,b4e8976a-1184-11ec-8bef-4988316d3539,Norway,Kongsberg,https://snowstock.no/,0.65,0.75,Medium,Good fuzzy name match
+468,"SoftwareONE Co., Ltd.",Thailand,Pathum Wan,Comparex,c7690ff8-93e4-11eb-8859-29e7c34dee35,Germany,Leipzig,https://www.softwareone.com/de-de,0.6,1.0,Medium,Strong name match
+469,SOFTWAREONE NORWAY AS,Norway,Oslo,SoftwareONE Norge AS,ca236fc9-1b01-11ec-893d-41807d3de292,Norway,Oslo,,0.916,0.86,High,Good fuzzy name match
+47,Apple South Asia (Thailand) Co Ltd,Thailand,Bangkok,Asia biogas,05227438-93e5-11eb-8859-29e7c34dee35,Thailand,Pathum Wan,http://www.asiabiogas.com/,0.6648,0.6913,Medium,Moderate name match
+470,SOFTWAREONE PTE. LTD.,Singapore,Singapore,Comparex,c7690ff8-93e4-11eb-8859-29e7c34dee35,Germany,Leipzig,https://www.softwareone.com/de-de,0.54,0.9,Medium,Strong name match
+471,SONY MOBILE COMMUNICATIONS AB,Sweden,Lund,Sony Network Communications Europe,15b2b80f-93e5-11eb-91fb-73d498260b10,Sweden,Malmo,https://www.sonynetworkcom.com/,0.704,0.84,High,Good fuzzy name match
+472,South Pole Sweden AB,Sweden,Stockholm,South Pole,2c51a7ea-d88d-11ec-8458-930fb706770a,Sweden,Stockholm,,0.9,0.8333,High,Good fuzzy name match
+473,Southern Cable Sdn. Bhd.,Malaysia,Kuala Ketil,Southern Nine Sdn. Bhd.,04ec320a-18fe-11f0-b4d0-096f959c77d2,Malaysia,Sungai Petani,https://southernnine.com/,0.716,0.86,High,Good fuzzy name match
+474,Splunk Inc.,United States,,Splunk,dc3d014e-25aa-11ef-84bb-3b7d91468c81,United States,State College,https://www.support.splunk.psu.edu/,0.75,1.0,High,Strong name match
+475,SPORTS STAR INTERNATIONAL (PRIVATE) LTD.,Pakistan,,Sports Star International Pvt Ltd.,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,Pakistan,Lahore,,0.75,1.0,High,Strong name match
+476,SQUARETRADE EUROPE LIMITED,Malta,Birkirkara,Square Trade,b1d944b6-c3f6-11ec-873d-a99e5f4b7980,United Kingdom,London,https://www.squaretrade.eu/,0.6,1.0,Medium,Strong name match
+477,SQUARETRADE LIMITED,United Kingdom,London,SquareTrade,2c43d957-93e5-11eb-8474-3bbe2d07207d,United Kingdom,London,http://squaretrade.uk/,1.0,1.0,High,Strong name match
+478,Starcom FZ-LLC,United Arab Emirates,,Starcom Trading DMCC,f41c5359-69ef-11ec-9119-073aad2629c4,United Arab Emirates,Dubai,http://ww99.starcomtrading.net/,0.692,0.82,Medium,Good fuzzy name match
+479,STARSEED TECHNOLOGIES (S) PTE. LTD.,Singapore,Geylang,Starseed Technologies S Pte. Ltd.,0f34c0d7-197b-11ef-bb50-ff355101f6ca,Singapore,,,0.9,1.0,High,Strong name match
+48,ARELION NORWAY AS,Norway,Oslo,Arelion,34818680-89c1-11ec-a621-3f13cdb5ccc4,Sweden,Farsta,https://arelion.com/,0.492,0.82,Low,Good fuzzy name match
+480,Stena Recycling Holding AB,Sweden,Gothenburg,Stena Recycling AB - Tingstad,05cf9ef0-f8c2-11ed-a4de-7df22657eaf0,Sweden,Gothenburg,,0.8,0.8333,High,Good fuzzy name match
+481,STORM COMMUNICATIONS AS,Norway,Oslo,Storm Communications,778a3f93-f35c-11ee-a2cf-e34c0e809adb,Norway,Oslo,http://www.stormhuset.no/,0.9,1.0,High,Strong name match
+482,SUBEX (ASIA PACIFIC) PTE. LIMITED,Singapore,,Subex,c98e8805-93e4-11eb-8e19-198fb02d6f96,India,Bengaluru,https://www.subex.com/,0.6,1.0,Medium,Strong name match
+483,SUBEX (UK) LIMITED,United Kingdom,Harrow,Subex,c98e8805-93e4-11eb-8e19-198fb02d6f96,India,Bengaluru,https://www.subex.com/,0.6,1.0,Medium,Strong name match
+484,Sutera Utama Sdn. Bhd.,Malaysia,Johor Bahru,Sutera Utama Sdn. Bhd.,43f5c0a1-a7e2-11ed-9443-77059af26349,Malaysia,Plentong,https://sutera.my/,0.85,1.0,High,Strong name match
+485,Swichtec Power Systems Sdn. Bhd.,Malaysia,Shah Alam,Swichtec Power Systems,324b1f73-93e5-11eb-8859-29e7c34dee35,Malaysia,Shah Alam,https://swichtec.com.my/,0.95,1.0,High,Strong name match
+486,Syarikat Takaful Malaysia Keluarga Berhad,Malaysia,Kuala Lumpur,TAKAFUL MALAYSIA,eb329782-93e4-11eb-a736-0f5b20ecb2f1,Malaysia,Kuala Lumpur,https://www.takaful-malaysia.com.my/,1.0,1.0,High,Strong name match
+487,"SYNIVERSE COMMUNICATIONS, LLC",United States,Tampa,Syniverse,84e29359-93e4-11eb-a33a-a3dfba582839,United States,Tampa,https://www.syniverse.com/,0.85,0.75,High,Good fuzzy name match
+488,Systems Limited,Pakistan,Jindra Kalan,Techvista Systems,c5d06e91-93e4-11eb-a736-0f5b20ecb2f1,Pakistan,Lahore,https://systemsltd.com/PK,0.8,1.0,High,Strong name match
+489,Systemteknik af 2021 A/S,Denmark,Nørresundby,System Teknik,deb26554-12fa-11ec-bc86-59f7750beb34,Denmark,Rudersdal Municipality,https://system-teknik.dk/,0.588,0.73,Medium,Good fuzzy name match
+49,Arelion AB,Sweden,Stockholm,Arelion,34818680-89c1-11ec-a621-3f13cdb5ccc4,Sweden,Farsta,https://arelion.com/,0.8,1.0,High,Strong name match
+490,T/A POL AS,Norway,Oslo,POL,389f973e-01ee-11ec-8b61-35bce24791d3,Norway,Oslo,https://pol.no/,0.8,0.6667,High,Moderate name match
+491,TALEND SINGAPORE PTE. LTD.,Singapore,Singapore,Reed Tan Digital,00cfe2f8-93e5-11eb-b997-8dd98d09cf25,Singapore,Singapore,https://reedtan.com/,0.7413,0.5687,High,Moderate name match
+492,Talend Sweden AB,Sweden,Stockholm,Talend sa.,4ccb39c7-c026-11ec-9880-5b9f9a6d0d58,Sweden,Gothenburg,https://investerarpengarskpj.web.app/,0.6,0.75,Medium,Good fuzzy name match
+493,Talentech ApS,Denmark,Copenhagen,Talentech Denmark,14426861-22ee-11ec-9e3b-1143ee662a91,Denmark,Copenhagen,https://www.talentech.dk/,0.85,0.75,High,Good fuzzy name match
+494,TAMPNET AS,Norway,Stavanger,Tampnet AS,ef6e1e50-93e4-11eb-8ad6-7326edce8d21,Norway,Stavanger,http://www.tampnet.com/,0.95,1.0,High,Strong name match
+495,Tata Communications International Pte. Ltd.,Singapore,Singapore,Tata International Singapore Pte. Limited,829c8c83-a38c-11ed-9aa1-6f508ed9f5b2,Singapore,Singapore,,0.786,0.81,High,Good fuzzy name match
+496,TATA COMMUNICATIONS INTERNATIONAL PTE. LTD.,Singapore,Singapore,TATA COMMUNICATIONS DIGO,2b145a02-93e5-11eb-8859-29e7c34dee35,Singapore,,https://www.tatacommunications-ts.com/,0.9,1.0,High,Strong name match
+497,"TATA CONSULTANCY SERVICES LIMITED, FILIAL AF TATA CONSULTANCY SERVICES LTD.,INDIEN",Denmark,Copenhagen,,,,,,0.5457,0.4094,Unmatched,Name similarity too low (0.41)
+498,TATA CONSULTANCY SERVICES SVERIGE AB,Sweden,,Tata Consultancy Services. Sep,0fb6f630-08ac-11ee-8fff-592c90920b7e,,,https://workfood.eu/,0.558,0.93,Medium,Strong name match
+499,TCT MOBILE INTERNATIONAL LTD.,Hong Kong,Hong Kong Island,Mobile Tech International HK Co Ltd.,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,Hong Kong,Kwai Chung,,0.728,0.88,High,Good fuzzy name match
+5,"3DEGREES GROUP, INC.",United States,San Francisco,3Degrees Inc.,df61d790-93e4-11eb-aa66-9b8d95e2171b,United States,San Francisco,http://3degreesinc.com/,1.0,1.0,High,Strong name match
+50,ARY COMMUNICATIONS LIMITED,Pakistan,Karachi,Jeeto Pakistan Helpline,bf0ce2f5-046a-11ec-9463-61636738658c,,,https://www.jeetopakistanheadofficehelpline.com/,0.6,1.0,Medium,Strong name match
+500,TD SYNNEX Denmark ApS,Denmark,Viborg Municipality,,,,,,0.578,0.38,Unmatched,Name similarity too low (0.38)
+501,TEALIUM INC.,United States,San Diego,Tealium,3a2cee44-c64c-11ec-ac84-8f6093b0b8c1,United States,San Diego,https://longxianggongmao.net/,1.0,1.0,High,Strong name match
+502,"TEAM INTERNATIONAL SERVICES, INC.",United States,Lake Mary,TEAM International,2d63c842-93e5-11eb-b997-8dd98d09cf25,United States,Lake Mary,https://www.teaminternational.com/,0.95,1.0,High,Strong name match
+503,TECH MAHINDRA (THAILAND) COMPANY LIMITED,Thailand,,Vigotext,30311916-93e5-11eb-8474-3bbe2d07207d,Thailand,Pak Kret District,http://www.vigotext.com/,0.708,0.93,High,Strong name match
+504,Tech Mahindra Ict Services (Malaysia) Sdn. Bhd.,Malaysia,Cyberjaya,Tech Mahindra,f299bc06-0aee-11ef-b572-d11295d15c52,Malaysia,Cyberjaya,,0.7357,0.6429,High,Moderate name match
+505,Tecnotree Oyj,Finland,Espoo,Tecnotree,bd9ea750-93e4-11eb-be5a-4f810ab55f2e,Finland,Espoo,https://www.tecnotree.com/,0.95,1.0,High,Strong name match
+506,TELECOM EQUIPMENT PTE LTD,Singapore,Singapore,Telecom Equipment Pte Ltd.,04a78940-19a9-11ee-aec0-a1af3c434505,Singapore,Singapore,,0.9,1.0,High,Strong name match
+507,Telekom Malaysia Berhad,Malaysia,Kuala Lumpur,TM Global,1b0fb400-a7d5-11ed-9228-6df634a34cc8,Malaysia,Kuala Lumpur,https://tmglobal.com.my/,0.946,0.91,High,Strong name match
+508,TELENOR SHARED SERVICES DENMARK A/S,Denmark,Aalborg,Telenor,bb9fa300-93e4-11eb-a33a-a3dfba582839,Denmark,Aalborg,https://www.telenor.dk/,0.8,0.75,High,Good fuzzy name match
+509,TELENOR ASA,Norway,Bærum,Telenor,18792b00-93e5-11eb-8859-29e7c34dee35,Norway,Bærum,http://www.telenor.com/,0.9,1.0,High,Strong name match
+51,"Ascio Technologies, Corp. Danmark - Filial af Ascio Technologies Corp. Canada",Denmark,Gentofte Municipality,Ascio Technologies,c7288490-93e4-11eb-8859-29e7c34dee35,Denmark,Copenhagen,https://www.ascio.com/,0.575,0.625,Medium,Moderate name match
+510,TELENOR BROADCAST HOLDING AS,Norway,Bærum,Telenor Satellite,342de933-93e5-11eb-9937-4fab995bf8ff,Norway,Bærum,https://www.spacenorway.com/,0.95,1.0,High,Strong name match
+511,Telenor Connexion AB,Sweden,Solna,Telenor Connexion,f0d7e780-93e4-11eb-8e19-198fb02d6f96,Sweden,,https://www.telenorconnexion.com/,0.8,1.0,High,Strong name match
+512,TELENOR D.O.O. BEOGRAD,Serbia,Belgrade,Yettel,9ca9c0c6-aa7c-11ec-a638-89115c56d9b3,Serbia,Belgrade,https://www.yettel.rs/,0.75,0.75,High,Good fuzzy name match
+513,TELENOR DANMARK HOLDING A/S,Denmark,Copenhagen,Telenor,bb9fa300-93e4-11eb-a33a-a3dfba582839,Denmark,Aalborg,https://www.telenor.dk/,0.708,0.93,High,Strong name match
+514,TELENOR DIGITAL AS,Norway,Bærum,Telenor Towers,0e5f5346-ef74-11ee-a589-df5b398caaa4,Norway,Bærum,https://www.telenortowers.com/,0.776,0.71,High,Good fuzzy name match
+515,TELENOR FIBER AS,Norway,Bærum,Telenor Towers,0e5f5346-ef74-11ee-a589-df5b398caaa4,Norway,Bærum,https://www.telenortowers.com/,0.812,0.77,High,Good fuzzy name match
+516,TELENOR GLOBAL SHARED SERVICES PAKISTAN (PRIVATE) LIMITED,Pakistan,Islamabad,SHAReD SERVICES,abe940fa-ce1c-11ed-9c53-b50761487d8b,Pakistan,Karachi Division,https://sharedservices.com.pk/,0.57,0.7,Medium,Good fuzzy name match
+517,TELENOR GO PTE. LTD.,Singapore,Singapore,Telenor Asia,f8dd5135-0c43-11ee-b94f-ebf23e82ffaf,Singapore,Singapore,https://telenorasia.com/,0.722,0.62,High,Moderate name match
+518,TELENOR LDI COMMUNICATIONS (PVT.) LIMITED,Pakistan,Islamabad,Telenor Franchise Brainz Communication,00d19d70-5e13-11ef-904a-b5358eb47b36,Pakistan,,,0.582,0.72,Medium,Good fuzzy name match
+519,TELENOR GLOBAL SERVICES AS,Norway,Bærum,Telenor Linx,d4d3de9b-2d28-11ed-abd0-cb4d1b9ef28b,Norway,Bærum,https://www.telenorlinx.com/,0.95,1.0,High,Strong name match
+52,ASIAINFO DENMARK ApS,Denmark,Copenhagen,Norm Denmark,0174ef42-0600-11ec-b0e6-bd1b9cb60ae6,Denmark,Gentofte Municipality,http://normdenmark.com/,0.644,0.74,Medium,Good fuzzy name match
+520,Telenor Magyarorszag Zrt.,Hungary,Törökbálint,Yettel Business Blog,0bfd6f80-ca6c-11ec-9fda-955688f546bd,Hungary,Törökbálint,https://yettelbusinessblog.hu/,0.874,0.79,High,Good fuzzy name match
+521,TELENOR NORGE AS,Norway,Bærum,Telenor Norges,f78e0b4a-93e4-11eb-9937-4fab995bf8ff,Norway,Bærum,http://www.telenor.no/,0.95,1.0,High,Strong name match
+522,TELENOR PAKISTAN,Pakistan,Islamabad,Telenor Pakistan,b69c114f-93e4-11eb-b4a6-27899be4e45d,Pakistan,Islamabad,http://www.telenor.com.pk/,0.9,1.0,High,Strong name match
+523,TELENOR PROCUREMENT COMPANY PTE. LTD.,Singapore,Singapore,Telenor Asia,f8dd5135-0c43-11ee-b94f-ebf23e82ffaf,Singapore,Singapore,https://telenorasia.com/,0.72,0.6167,High,Moderate name match
+524,TELENOR REAL ESTATE AS,Norway,Bærum,Telenor Tracking,04044225-ab42-11ef-a81c-95dd76a2367c,Norway,Bærum,https://telenortracking.no/,0.74,0.65,High,Moderate name match
+525,Telenor Shared Services AS,Norway,Bærum,Telenor Cloud services AS,4df951dc-2cfa-11ef-96db-335e17d831d9,Norway,Bærum,,0.854,0.84,High,Good fuzzy name match
+526,TELENOR SOFTWARE LAB AS,Norway,Bærum,Telenor Software Lab AS TSL,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,Norway,Bærum,https://minepapir.no/,0.9,1.0,High,Strong name match
+527,TELENOR SVALBARD AS,Norway,,Svalbard,474357e4-17e8-11ec-b872-5febabff3ecb,Norway,Oslo,https://www.svalbard.money/,0.6,0.75,Medium,Good fuzzy name match
+528,TELETEAMET A/S,Denmark,Odense Kommune,Teleteamet A/S.,a84b4151-0da2-11ec-9b20-fda7bd57cf2c,Denmark,Odense,http://teleteamet.dk/,0.9,1.0,High,Strong name match
+529,Teliti Teknik Sdn Bhd,Malaysia,Shah Alam,TELITI TEKNIK,bdf9ef01-b77a-11ed-be56-5737ab22b0ef,Malaysia,Sungai Buloh,http://www.telititeknik.com.my/,0.82,0.95,High,Strong name match
+53,Atea A/S,Denmark,Ballerup,Atea Danmark,431d0020-93e5-11eb-be5a-4f810ab55f2e,Denmark,Ballerup,http://www.atea.dk/,0.85,0.75,High,Good fuzzy name match
+530,Textilia Group A/S,Denmark,Egedal Municipality,Textilia,82f1b671-106e-11ee-96a3-3bc9ea359402,Denmark,Ballerup,http://textilia.dk/,0.8,1.0,High,Strong name match
+531,Thailife Insurance Public Company Limited,Thailand,Bangkok,Thai Life Insurance,22d880ae-93e5-11eb-8e19-198fb02d6f96,Thailand,Bangkok,http://www.thailife.com/,0.932,0.97,High,Strong name match
+532,SETEC CARD A/S,Denmark,Ballerup,SETEC,01c5112c-003d-11ec-898f-a3255f04c287,Austria,Kindberg,http://www.setec-gmbh.at/,0.45,0.75,Low,Good fuzzy name match
+533,GEMALTO NORGE AS,Norway,Oslo,Gemalto Norge AS,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,Norway,Oslo,,1.0,1.0,High,Strong name match
+534,Thales DIS Sweden AB,Sweden,Stockholm,DIS of Sweden,2cb447a0-1769-11ec-9256-c99cfa2847dc,Sweden,Gothenburg,https://www.dis-sweden.org/,0.672,0.87,Medium,Good fuzzy name match
+535,TIETOEVRY NORWAY AS,Norway,Bærum,Negotia,8dfb5f3d-93e4-11eb-a33a-a3dfba582839,Norway,Bærum,https://negotiaevry.org/,0.824,0.79,High,Good fuzzy name match
+536,TIETOEVRY TECH SERVICES NORWAY AS,Norway,Bærum,Negotia,8dfb5f3d-93e4-11eb-a33a-a3dfba582839,Norway,Bærum,https://negotiaevry.org/,0.73,0.55,High,Moderate name match
+537,TINEX GROUP AS,Norway,Oslo,TINEX Group,e8cae664-93e4-11eb-b89f-536884b3e7dd,Norway,Oslo,https://www.tinexgroup.no/,1.0,1.0,High,Strong name match
+538,Tm Technology Services Sdn. Bhd.,Malaysia,Kuala Lumpur,TM One,2fc4267e-93e5-11eb-b4a6-27899be4e45d,Malaysia,Kuala Lumpur,https://www.tmone.com.my/,0.9,1.0,High,Strong name match
+539,Tongyu Communication Inc.,China,Guzhen,Tongyu communication,b41391a2-93e4-11eb-97db-273ba5953680,China,Zhongshan,https://tycc.cn/,0.8,1.0,High,Strong name match
+54,ATEA AS,Norway,Oslo,Atea Logistics,c9fab753-93e4-11eb-919a-b3f9a5ad205c,Norway,Oslo,https://atea.com/,1.0,1.0,High,Strong name match
+540,Tp Link International Ltd.,Hong Kong,Kowloon,LINK Logistics International Network,fedb5170-bfb3-11ec-aa0f-71bbddca30bf,Hong Kong,Kowloon,,0.833,0.805,High,Good fuzzy name match
+541,TPM DATA ApS,Denmark,Smørumnedre,TPM Data,712e21b9-f0b1-11ee-8297-17c39b32c1d5,,,https://www.tpmdata.com/,0.6,1.0,Medium,Strong name match
+542,"Tradium, Erhvervsskole og - gymnasier, Randers S/I",Denmark,Randers,Tradium - EUD10 Randers,77adc9aa-92f2-11ef-840e-3d3003770a6f,Denmark,Randers,,0.7557,0.5929,High,Moderate name match
+543,TRANSMODE SYSTEMS AB,Sweden,Stockholm,TRANSMODE SYSTEMS AB.,7422ed1e-5e29-11ef-90a8-8b966e020cd1,Sweden,Stockholm,,0.9,1.0,High,Strong name match
+544,TREND MICRO (SINGAPORE) PTE. LTD.,Singapore,Singapore,Touch of Trend Singapore,7f4688c8-ad32-11ef-8c9e-31c2725f601c,Singapore,Singapore,https://totbridal.sg/,0.768,0.78,High,Good fuzzy name match
+545,Trifork A/S,Denmark,Aarhus,Trifork Academy,0bbb730a-93e5-11eb-be3a-7f925cb94351,Denmark,Aarhus,https://triforkacademy.dk/,1.0,1.0,High,Strong name match
+546,True Move H Universal Communication Co Ltd,Thailand,Bangkok,True Move H Universal Communication Company Limited,4c667ccb-13c6-11ec-9836-ef7b0600cc53,Thailand,Khon Kaen,https://www.truemove-h.com/,0.75,1.0,High,Strong name match
+547,TRUSTZONE A/S,Denmark,Copenhagen,TRUSTZONE,8b944a32-93e4-11eb-86dd-ffbd1b53140e,Denmark,Copenhagen,https://trustzone.com/,0.95,1.0,High,Strong name match
+548,TT DOTCOM SDN. BHD.,Malaysia,Shah Alam,INIAGA,2c4c8ce3-12ce-11ec-b275-635f962c0ee7,Malaysia,Cyberjaya,http://iniaga.com/,0.74,0.9,High,Strong name match
+549,TT-NETVAERKET P/S,Denmark,Copenhagen,TT Network,f1ca36c3-93e4-11eb-9937-4fab995bf8ff,Denmark,Copenhagen,https://www.tt-network.dk/,0.964,0.94,High,Strong name match
+55,Atea Sverige AB,Sweden,Stockholms Kommun,Voister,10fa6017-93e5-11eb-aa66-9b8d95e2171b,Sweden,Stockholm,https://voister.se/,0.8,1.0,High,Strong name match
+550,TUTELA TECHNOLOGIES LTD.,Canada,Victoria,Tutela,c5b76852-93e4-11eb-be3a-7f925cb94351,Canada,Victoria,https://www.tutela.com/,0.85,0.75,High,Good fuzzy name match
+551,TXO SYSTEMS LTD,United Kingdom,Chepstow,TXO Systems,a4e5eb10-93e4-11eb-be3a-7f925cb94351,United Kingdom,Chepstow,https://www.txo.com/,1.0,1.0,High,Strong name match
+552,UIPATH SRL,Romania,Bucharest,UiPath Foundation,fbd80a51-3243-11ec-9985-d11c4bd35db5,Romania,Bucharest,https://uipathfoundation.com/,0.9,1.0,High,Strong name match
+553,Unit Trust Of Pakistan,Pakistan,Saddar Town,Ministry of Commerce,0077b0d7-93e5-11eb-8474-3bbe2d07207d,Pakistan,Islamabad,https://www.commerce.gov.pk/,0.552,0.67,Medium,Moderate name match
+554,"UNITED INFORMATION HIGHWAY CO., LTD.",Thailand,Chatuchak District,UIH,2950b10d-93e5-11eb-919a-b3f9a5ad205c,Thailand,Chatuchak,http://www.uih.co.th/,0.8975,1.0,High,Strong name match
+555,Ur Consult ApS,Denmark,Kongens Lyngby,Roested,d21a0337-03a5-11ec-a873-d574c694d6a6,Denmark,Kongens Lyngby,https://roested.dk/,0.682,0.47,Medium,Moderate name match
+556,UTEL AS,Norway,Grimstad,Utel AS,e5d58700-d139-11ec-90aa-d5cfd1428197,Norway,Grimstad,https://utel.tech/,1.0,1.0,High,Strong name match
+557,VANTIVA TECHNOLOGIES,France,Paris,Vantiva,0330dd63-93e5-11eb-a746-fdabd18be9c6,France,Issy-les-Moulineaux,http://www.vantiva.com/,0.65,0.75,Medium,Good fuzzy name match
+558,Vertiv (Malaysia) Sdn. Bhd.,Malaysia,Petaling Jaya,,,,,,0.375,0.625,Unmatched,Below score threshold
+559,"VERTIV (THAILAND) CO., LTD.",Thailand,Chatuchak,Vertiv,ccf9e8fb-6dae-11ec-a0a5-5d41d5e823b0,Japan,Tokyo,https://www.vertiv-jp.com/,0.45,0.75,Low,Good fuzzy name match
+56,NP Investment A/S,Denmark,Hillerød,Np International A/S.,5e1eacfe-1af9-11ec-9211-addac7307e1d,Denmark,Copenhagen,,0.572,0.62,Medium,Moderate name match
+560,Vertiv Energy Private Limited,India,Thane,Vertiv Energy Private Limited,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,India,Pune,,0.8,1.0,High,Strong name match
+561,VERTIV (SINGAPORE) PTE. LTD.,Singapore,Singapore,,,,,,0.452,0.42,Unmatched,Name similarity too low (0.42)
+562,Viaplay Group AB (publ),Sweden,Stockholm,Viaplay,3a455bf0-93e5-11eb-a33a-a3dfba582839,Sweden,Stockholm,https://viaplay.com/us-en/,0.792,0.82,High,Good fuzzy name match
+563,VIRTUAL WORLD (PVT.) LIMITED,Pakistan,,Virtualworld,01a6b519-8403-11ee-92ce-cffa3c401450,Ukraine,Kyiv,https://worldvirt.com/,0.576,0.96,Medium,Strong name match
+564,MV-NORDIC A/S,Denmark,Odense Kommune,Mv-nordic Danmark,387071d4-9f86-11ec-bb62-ef8222f30268,Denmark,Odense,,0.7,0.8333,High,Good fuzzy name match
+565,VOXOGO ApS,Denmark,Copenhagen,Voxogo Aps. Store Kongensgade,ed5cca83-93e4-11eb-8859-29e7c34dee35,Denmark,Copenhagen,https://voxogo.com/,1.0,1.0,High,Strong name match
+566,WATCHDATA TECHNOLOGIES PTE LTD,Singapore,Singapore,Watchdata,f3e108dc-93e4-11eb-8e19-198fb02d6f96,Singapore,Singapore,http://ww12.xunlehongbei.com/?usid=15&utid=26722604154,1.0,1.0,High,Strong name match
+567,WATEEN SOLUTIONS (PVT.) LIMITED,Pakistan,Lahore,Wateen electronics,1d164ec2-0207-11ef-9c4a-0fa9a82a1312,Pakistan,Lahore,,0.726,0.71,High,Good fuzzy name match
+568,Waystream AB,Sweden,Stockholms Kommun,Waystream,c179226e-93e4-11eb-9937-4fab995bf8ff,Sweden,Stockholm,https://waystream.com/en,0.8,1.0,High,Strong name match
+569,WIDEROE AS,Norway,Bodø,Widerøes Flyveselskap,85da39b1-93e4-11eb-8474-3bbe2d07207d,Norway,Bodø,https://www.wideroe.no/,0.952,0.92,High,Strong name match
+57,ATREBO SL,Spain,Guillena,Trebolis,5f774202-8528-11ec-b5ad-0d28dc61df96,Spain,Sevilla,https://www.trebolis.com/,0.77,0.95,High,Strong name match
+570,Wilke Markedsanalyse A/S,Denmark,Odense Kommune,Wilke A S Aarhus,01eb8c25-93e5-11eb-b4a6-27899be4e45d,Denmark,Odense,https://wilke.dk/,0.7,0.75,High,Good fuzzy name match
+571,WIPRO LIMITED,India,Doddakannelli,WIPRO,e760f611-93e4-11eb-be5a-4f810ab55f2e,India,Bengaluru,https://www.wipro.com/,0.898,1.0,High,Strong name match
+572,WIPRO LIMITED (SINGAPORE BRANCH),Singapore,Singapore,Wipro Limited Singapore Branch,f5b10fd3-0321-11ee-b9c7-d945c48165b4,Singapore,Singapore,,0.9,1.0,High,Strong name match
+573,Wire & Wireless Co Ltd,Thailand,Huai,Wire & Wireless,727be343-ba6f-11eb-a6d9-7794e56e1994,Thailand,Suan Luang,https://www.ww.co.th/,0.75,1.0,High,Strong name match
+574,WOODLANDS TRANSPORT SOLUTIONS PTE. LTD.,Singapore,Singapore,Woodlands Transport,3a3d6cb0-93e5-11eb-8ad6-7326edce8d21,Singapore,Singapore,https://www.woodlandstransport.com.sg/,0.76,0.85,High,Good fuzzy name match
+575,WORKDAY LIMITED,Ireland,Dublin,Workday,8c15d642-93e4-11eb-8474-3bbe2d07207d,Ireland,Dublin,https://workday.github.io/,0.9,1.0,High,Strong name match
+576,WTW REAL ESTATE SDN. BHD.,Malaysia,Kuala Lumpur,CBRE WTW,bb46d4a4-93e4-11eb-8859-29e7c34dee35,Malaysia,Kuala Lumpur,https://cbre-wtw.com.my/,0.85,0.9167,High,Strong name match
+577,XIT SOFTWARE ApS,Denmark,Gentofte Municipality,xIT Software,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,Denmark,Gentofte Municipality,http://xit-software.dk/,0.95,1.0,High,Strong name match
+578,Yangtze Optical Fibre And Cable Joint Stock Ltd.,China,Wuhan,Yangtze Optical Fibre and Cable Joint Stock,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,China,Wuhan,https://www.yofc.com.cn/,0.95,1.0,High,Strong name match
+579,YINDA TECHNOLOGY (THAILAND) COMPANY LIMITED,Thailand,,Yinda Infocomm,e26d008f-4dae-11ee-820a-3797d6fca93c,Thailand,Huai Khwang,http://yinda.co.th/,0.75,1.0,High,Strong name match
+58,AV CENTER AALBORG ApS,Denmark,Nørresundby,AV CENTER,b011b872-93e4-11eb-b4a6-27899be4e45d,Denmark,Brøndbyvester,https://www.avcenter.dk/,0.75,1.0,High,Strong name match
+580,ZALARIS HR SERVICES DANMARK A/S,Denmark,Høje-Taastrup Municipality,Zalaris HR Services Danmark A/S.,1965cb44-f87f-11ed-ab94-9d382b3b5926,Denmark,Taastrup,https://zalaris.dk/?opi=79508299&sa=U&ved=0ahUKEwjjxIfdn6yMAxWrF1kFHb3-GMgQ61gIFCgQ&usg=AOvVaw0LBcrYRO_Oh_bzGQjyNvqE,0.85,1.0,High,Strong name match
+581,Zalaris HR Services Finland Oy,Finland,,Music Aggregation Services Finland Oy.,2232e03f-ff78-11eb-a358-8dbe3201bc48,Finland,Tampere,https://masf.fi/,0.594,0.74,Medium,Good fuzzy name match
+582,ZALARIS HR SERVICES NORWAY AS,Norway,Lødingen,Aviation Fuelling Services Norway,09a452d3-93e5-11eb-be3a-7f925cb94351,Norway,Oslo,https://www.afsn.no/,0.588,0.73,Medium,Good fuzzy name match
+583,Zalaris HR Services Sverige AB,Sweden,Solna,Zalaris,28b4ac6a-b989-11ec-9415-2f89cc4d8f8b,Sweden,Solna,,0.828,0.88,High,Good fuzzy name match
+584,ZENDATA ApS,Denmark,Ølstykke,Zendata,ae69fbe1-93e4-11eb-be3a-7f925cb94351,Denmark,Hillerød,https://zendata.dk/,0.8,1.0,High,Strong name match
+585,ZHONGXING TELECOM PAKISTAN (PRIVATE) LIMITED,Pakistan,,Lahore Warehouse pko3,4d56b450-e160-11eb-affd-256fd8cf1b98,Pakistan,Lahore,https://ztewarehouse.webs.com/,0.75,1.0,High,Strong name match
+586,ZIFF DAVIS IRELAND LIMITED,Ireland,Dublin 2,Ziff Davis,6ac40f09-b5a6-11ef-b1e0-ebdf69cc9c4f,United States,New York,https://zyzvpn.pages.dev/,0.5,0.8333,Low,Good fuzzy name match
+587,Zte (Malaysia) Corporation Sdn. Bhd.,Malaysia,Kuala Lumpur,ZTE,9d0ddc95-93e4-11eb-8e19-198fb02d6f96,Malaysia,Petaling Jaya,https://www.ztedevices.com.my/,0.75,1.0,High,Strong name match
+588,Zte (Thailand) Co Ltd,Thailand,Sathon District,ZTE Thailand,3a1f7b24-683a-11ee-92e5-016d0f508b74,Thailand,Sathon,,0.85,1.0,High,Strong name match
+589,Zte Corporation,China,Shenzhen,ZTE,a68dcec0-93e4-11eb-9937-4fab995bf8ff,China,Shenzhen,https://www.zte.com.cn/global/,0.9,1.0,High,Strong name match
+59,aviat networks bangladesh ltd.,Bangladesh,,Aviat Networks,0fc3f2d0-0453-11ed-b02a-97e9d5b4bc17,,,http://aviatservices.com/,0.5,0.8333,Low,Good fuzzy name match
+590,Z.T.E. CORPORATION BANGLADESH LTD.,Bangladesh,Dhaka,ZTE Corporation Bangladesh Limited,3a852200-1b06-11ec-ae98-5d8c88c64981,Bangladesh,Dhaka,,0.858,0.93,High,Strong name match
+591,ZTE NORWAY AS,Norway,Bærum,Bwell Norge,05b20a12-93e5-11eb-9937-4fab995bf8ff,Norway,Bærum,http://www.bwell.no/,0.85,0.75,High,Good fuzzy name match
+6,3Step IT Group Oy,Finland,Helsinki,3Step IT Group,359bd116-93e5-11eb-b5f6-816dd10ac7b0,Finland,Helsinki,https://sg.3stepit.com/,1.0,1.0,High,Strong name match
+60,Aviat Networks Japan LLC,Japan,,Aviat Networks,b999a620-7299-11ec-bfac-2f753bdf82cf,United States,Austin,https://www.atgnation.com/,0.5,0.8333,Low,Good fuzzy name match
+61,AWAN DISTRIBUTION FZC,United Arab Emirates,Sharjah,ISDF,85513392-93e4-11eb-90d2-e3355a7e800b,United Arab Emirates,Sharjah,http://isdfuae.com/,0.7515,0.7525,High,Good fuzzy name match
+62,Axteq ApS,Denmark,Greve Strand,Axteq,79b2afc2-9ba7-11ec-81bb-a98020a63841,Denmark,Greve Strand,https://axteq.dk/,1.0,1.0,High,Strong name match
+63,Az-Technology Sdn. Bhd.,Malaysia,Petaling Jaya,AZ Technology,eea35cb5-1206-11ec-a59d-d5061f333c7e,Malaysia,Petaling Jaya,https://az-tech.my/,0.95,1.0,High,Strong name match
+64,BAE SYSTEMS APPLIED INTELLIGENCE (INTERNATIONAL) LIMITED,United Kingdom,Guildford,BAE Systems Applied Intelligence,3ea0da62-8ab7-11ec-ac1c-2de22eb6a532,United Kingdom,Guildford,https://www.baesystemsdetica.com/,0.84,0.9,High,Strong name match
+65,BASICO P/S,Denmark,Gentofte Municipality,Basico P/S.,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,Denmark,Gentofte Municipality,,1.0,1.0,High,Strong name match
+66,"BB CONNECT CO.,LTD.",Thailand,,Bb connect,d57e2265-193a-11f0-abd2-b1121b4598c4,South Africa,,https://bb-connect.co.za/,0.6,1.0,Medium,Strong name match
+67,Bb Technology Co Ltd,Thailand,Bangkok,BBtec,6e4bcefd-115f-11ec-bd3c-8d2e345be4e0,Thailand,Chatuchak,https://bbtec.co.th/th,0.8975,1.0,High,Strong name match
+68,BCD TRAVEL ASIA PACIFIC PTE. LTD.,Singapore,Singapore,Asia Pacific Travel Limited.,ca15f420-7296-11ec-8f96-ed83df234696,Hong Kong,Kowloon,https://asiapacifictravel.info/,0.6,1.0,Medium,Strong name match
+69,BCD N.V.,Netherlands,Utrecht,BCD,05804ba6-93e5-11eb-8859-29e7c34dee35,Netherlands,Utrecht,https://www.bcdtravel.com/,1.0,1.0,High,Strong name match
+7,A.T. KEARNEY AB,Sweden,,Jennies Hundsalong,e8a0c2c0-2d40-11ed-8056-51d6fec0e25c,Sweden,Ljungby,https://www.jennieshundsalong.com/,0.54,0.65,Medium,Moderate name match
+70,BEAT A/S,Denmark,Copenhagen,Beat,c62a45a0-6cf1-11ec-bd63-974170f7dbf6,Denmark,Copenhagen,http://www.beat.dk/,0.95,1.0,High,Strong name match
+71,"Beijing Dynamic Power Co., Ltd",China,Fengtai District,Beijing Dynamic Power Co. Ltd Myanmar Branch,2be6c530-93e5-11eb-8859-29e7c34dee35,China,Fengtai District,http://www.dpc.com.cn/,0.85,0.8333,High,Good fuzzy name match
+72,BIGID INC.,United States,,BigID,1cdc1a43-6dce-11ec-a314-7d00415f726f,United States,New York,https://bigid.me/,0.75,1.0,High,Strong name match
+73,Binkies Holding B.V.,Netherlands,The Hague,Binkies,8bd572a1-01b3-11ef-a950-57d6400676e3,Netherlands,The Hague,https://binkiesdenhaag.nl/,0.9,1.0,High,Strong name match
+74,BLACKWOOD SEVEN A/S,Denmark,Copenhagen,Blackwood Seven,0cb674d5-93e5-11eb-aa66-9b8d95e2171b,Denmark,Copenhagen,https://blackwoodseven.com/,0.95,1.0,High,Strong name match
+75,Blom Soefeldt - Erhvervspsykologisk radgivning,Denmark,Copenhagen,Blom Søefeldt - Erhvervspsykologisk Rådgivning,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,Denmark,Copenhagen,https://blomsoefeldt.dk/,0.888,0.98,High,Strong name match
+76,BOOST AI AS,Norway,Sandnes,Boost,f6ae0b86-93e4-11eb-91fb-73d498260b10,Norway,Sandnes,https://boost.ai/,1.0,1.0,High,Strong name match
+77,Bording Danmark A/S,Denmark,Glostrup,Bording Danmark,e84cb5a0-93e4-11eb-8e19-198fb02d6f96,Denmark,Rødovre Municipality,https://bording.dk/,0.8,1.0,High,Strong name match
+78,Braathens Regional Airways AB,Sweden,Stockholm,BRA,6d7bab68-93e4-11eb-b4a6-27899be4e45d,Sweden,Stockholm,https://flygbra.se/,0.822,0.87,High,Good fuzzy name match
+79,BRAINCHILD COMMUNICATIONS PAKISTAN (PVT.) LIMITED,Pakistan,,Brainchild Communications Pakistan,efc08410-93e4-11eb-a746-fdabd18be9c6,Pakistan,Karachi Division,https://brainchild.net/,0.75,1.0,High,Strong name match
+8,A. T. KEARNEY PTE. LTD,Singapore,,Kearney,3bd57537-967f-11eb-a6b4-898f90f73868,Norway,Oslo,https://www.kearney.cn/,0.462,0.77,Low,Good fuzzy name match
+80,Brobizz A/S,Denmark,Copenhagen,Brobizz,f6c033f6-93e4-11eb-8859-29e7c34dee35,Denmark,Copenhagen,https://brobizz.com/,0.95,1.0,High,Strong name match
+81,BUNDGAARD KOLETEKNIK. VEJLE A/S,Denmark,Vejle,Bundgaard Køleteknik A/S.,91a6c984-27a7-11ef-ba21-2b94af863263,Denmark,Vejle,,0.904,0.84,High,Good fuzzy name match
+82,Bynder Holding B.V.,Netherlands,Amsterdam,Bynder,2a0c38dd-93e5-11eb-8474-3bbe2d07207d,Netherlands,Amsterdam,https://www.bynder.com/en/,1.0,1.0,High,Strong name match
+83,C&W Services (S) Pte. Ltd.,Singapore,Singapore,CW Aero Services,2d5be122-0a6a-11ec-b841-af64738d2bcd,Singapore,Singapore,https://cwaeroservices.com/,0.774,0.79,High,Good fuzzy name match
+84,CAMPANA GROUP PTE. LTD.,Singapore,,Campana Group,73d641b5-93e4-11eb-91fb-73d498260b10,Singapore,,https://campanaworks.com/,0.768,0.78,High,Good fuzzy name match
+85,CBRE AS,Norway,Oslo,CBRE Norway,9dc12706-93e4-11eb-8e19-198fb02d6f96,Norway,Oslo,https://www.cbre.no/,1.0,1.0,High,Strong name match
+86,CBRE Teknisk Servicepartner A/S,Denmark,Aalborg,CBRE Teknisk servicepartner,57918a20-a8bb-11ed-9a6b-af642bb25f66,Denmark,Aalborg,https://cbre-tekniskservicepartner.dk/,1.0,1.0,High,Strong name match
+87,CELLUSYS LIMITED,Ireland,Dublin 1,Cellusys,f0e66671-93e4-11eb-b4a6-27899be4e45d,Ireland,Dublin,https://www.cellusys.com/,0.936,1.0,High,Strong name match
+88,CENTERFORENINGEN FISKETORVET SHOPPING CENTER F.M.B.A.,Denmark,,Centerforeningen for Nyvangsparken,0729a734-69ff-11ec-a83b-a57bf486820a,Denmark,,https://nyvangsparkens.dk/,0.498,0.58,Low,Moderate name match
+89,CETIN Hungary Zrt.,Hungary,Törökbálint,CETIN Hungary,ffcc1654-120e-11ec-8f83-091abf327b82,Hungary,Törökbálint,https://cetin.hu/,0.95,1.0,High,Strong name match
+9,AALBORG CITY,Denmark,Aalborg,AALBORG CITY,272b8711-93e5-11eb-8e19-198fb02d6f96,Denmark,Aalborg,https://aalborgcity.dk/,1.0,1.0,High,Strong name match
+90,CHINA TELECOM GLOBAL LTD,Hong Kong,Hong Kong Island,China Telecom Global,26c39d80-93e5-11eb-be5a-4f810ab55f2e,Hong Kong,Hong Kong Island,https://www.chinatelecomglobal.com/,0.9,1.0,High,Strong name match
+91,CHINA UNICOM (SINGAPORE) OPERATIONS PTE. LTD.,Singapore,Singapore,China Unicom Singapore,bd5d453c-c0b6-11ec-985b-d74077f0fb21,Singapore,Singapore,,0.88,0.8,High,Good fuzzy name match
+92,CHUBB GLOBAL RISK ADVISORS PTE. LTD.,Singapore,,Chubb Global Risk Advisors,4db78ad2-c000-11ec-8d01-9b40ae94c55f,Singapore,Singapore,https://www.cgra.com.sg/,0.75,1.0,High,Strong name match
+93,CIBICOM SERVICES A/S,Denmark,Ballerup,Cibicom,23947da4-93e5-11eb-a33a-a3dfba582839,Denmark,Ballerup,https://cibicom.com/,1.0,1.0,High,Strong name match
+94,CIENA LIMITED,United Kingdom,London,Ciena,9cc86f27-93e4-11eb-8e19-198fb02d6f96,United Kingdom,London,https://www.ciena.in/,0.9,1.0,High,Strong name match
+95,CISCO INTERNATIONAL LIMITED,United Kingdom,Feltham,Cisco International Limited,4e8bfa9e-1afc-11ec-ba40-29b1c5bdeb83,Singapore,Singapore,,0.6,1.0,Medium,Strong name match
+96,CISCO NORWAY AS,Norway,Bærum,Cisco Systems Norway AS,9efd3f68-c418-11ef-92e8-6df27b7ad8f3,Norway,Bærum,,0.9,0.8333,High,Good fuzzy name match
+97,CITERO AS,Norway,Trondheim,Citero,14fe8332-93e5-11eb-8ad6-7326edce8d21,Norway,Trondheim,http://citero.no/,1.0,1.0,High,Strong name match
+98,"CLOUDERA, INC.",United States,Santa Clara,ClouderaNOW24,def72ee7-93e4-11eb-aa66-9b8d95e2171b,United States,Santa Clara,http://greaterrichmondhomeloanconnect.com/,1.0,1.0,High,Strong name match
+99,Comba Technologies Sdn. Bhd.,Malaysia,Subang Jaya,OM Technologies Sdn.Bhd.,00bc7e85-9307-11ec-9f06-a57206a728ac,Malaysia,Petaling Jaya,,0.764,0.94,High,Strong name match
